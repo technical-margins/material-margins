@@ -1,0 +1,19 @@
+INHERIT: ../mkdocs.yml
+docs_dir: '../../docs/en'                            # Where to find the Markdown files.
+site_dir: '../../generated/en'                       # Where to put the HTML files.
+
+theme:
+  language: en
+
+plugins:
+  - blog
+  - search:                                         
+      lang: en                                      # Set language for search
+
+################ Navigation ################
+# The navigation is where you can customize the navigation (TOC). You can add, remove, and reorder the different sections and pages of the site. You can also add links to external sites. By default, the navigation is the same for all languages, and the translation is done in the i18n plugin. The i18n plugin also allows you to customize the navigation for each language (cf. their documentation).
+nav:
+  - Home:
+    - index.md
+  - Blog:
+    - blog/index.md

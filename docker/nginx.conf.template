@@ -1,0 +1,30 @@
+server {
+    listen 80;
+    server_name [domaine]; # Specify the domain or use localhost for local testing
+
+    root /usr/share/nginx/html; # Set the root directory for serving HTML files
+    index index.html; # Serve index.html by default
+
+    location / {
+        # Set cache control headers for static content (images, CSS, JS)
+        add_header Cache-Control "max-age=180";
+        expires 3m;
+
+        # Apply cache settings to specific file types
+        location ~* \.(jpg|jpeg|png|gif|ico|css|js|html|htm)$ {
+            add_header Cache-Control "max-age=180";
+            expires 3m;
+        }
+
+        error_page 404 /404.html;
+        location = /404.html {
+            root /usr/share/nginx/html;
+            internal; 
+        }
+
+        # Rewrite 'src' and 'href' attributes to include the path prefix dynamically
+        sub_filter 'src="/' 'src="$extendedPrefix';
+        sub_filter 'href="/' 'href="$extendedPrefix';
+        sub_filter_once off;
+    }
+}

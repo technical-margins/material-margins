@@ -1,0 +1,297 @@
+@import "https://use.fontawesome.com/releases/v5.7.2/css/all.css";
+
+/* Logo darl-light mode toogle
+#logo_light_mode {
+  display: var(--md-footer-logo-light-mode);
+}
+
+#logo_dark_mode {
+  display: var(--md-footer-logo-dark-mode);
+}
+
+[data-md-color-scheme="light-mode"] {
+  --md-footer-logo-dark-mode:         none;
+  --md-footer-logo-light-mode:         block;
+}
+
+[data-md-color-scheme="dark-mode"] {
+  --md-footer-logo-dark-mode:         block;
+  --md-footer-logo-light-mode:         none;
+} */
+
+/*.md-header {
+    background-color: rgb(50, 50, 102) !important;
+}*/
+
+/*  TO DISABLE FR-EN TOOGLE
+.md-select .md-header__button.md-icon {
+  display: none;
+}
+*/
+
+img {
+  border: 0px solid #D2D2D2;
+  border-radius: 5px;
+  }
+
+h1 {
+    color: var(--md-accent-fg-color) !important;
+    font-weight: bold !important;
+}
+
+h2 {
+    color: var(--md-typeset-a-color) !important;
+}
+
+h3 {
+    color: var(--md-typeset-a-color) !important;
+}
+
+h4 {
+  color: var(--md-typeset-a-color) !important;
+}
+
+h5 {
+  color: var(--md-typeset-a-color) !important;
+  margin-left: 15px !important;
+}
+
+ul ul {
+    list-style-type:  circle !important;
+}
+
+ul ul ul {
+    list-style-type:  square !important;
+}
+
+.video-wrapper {
+  position: relative;
+  display: block;
+  height: 0;
+  padding: 0;
+  overflow: hidden;
+  padding-bottom: 56.25%;
+}
+.video-wrapper > iframe {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.cards li {
+  background-color: var(--md-card-bg-color);
+}
+
+.card {
+  background-color: var(--md-card-bg-color);
+}
+
+.md-header {
+  background-color: var(--md-banner-bg-color) !important;
+  color: var(--md-banner-fg-color) !important;
+}
+
+/* For tms22_green and tms24_green color schemes */
+.md-tabs {
+  background-color: var(--md-banner-tabs-bg-color) !important;
+}
+
+.md-nav__list {
+  list-style: none !important;
+}
+
+.red {
+  color: #e3003b;
+}
+
+[data-md-color-scheme="margin"] {
+    --md-typeset-a-color:         #009799; /* 02ee78 */
+    --md-primary-fg-color:        #009799;
+    --md-primary-fg-color--light: #f7f297;
+    --md-primary-fg-color--dark:  #009799;
+    --md-accent-fg-color:         #009799;
+    --md-primary-bg-color:        #d8fbfa;
+    --md-banner-bg-color:         #009799;
+    --md-banner-fg-color:         #d8fbfa;
+    --md-banner-tabs-bg-color:    #009799;
+    --md-card-bg-color:           #d8fbfa;
+    --md-footer-bg-color:         #00726a;
+    --md-shadow-z1:               rgba(154, 161, 177, 0.1);
+  }
+
+/* Slate color scheme */
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color--dark:  #007d99 !important;
+    --md-primary-fg-color:        #0090b2 !important;
+    --md-typeset-a-color:         #00a4cd !important;
+    --md-primary-fg-color--light: #81d9f6 !important;
+    --md-accent-fg-color:         #0090b2 !important;
+    --md-mermaid-node-fg-color:   #00a4cd !important;
+    --md-banner-bg-color:         #005b6c !important;
+    --md-banner-fg-color:         #f2f2f2 !important;
+    --md-banner-tabs-bg-color:    #005b6c !important;
+    --md-card-bg-color:           #17191f !important;  
+  } 
+
+:root {
+/*    --md-primary-fg-color:        #3984c4;
+    --md-primary-fg-color--light: #449eea;
+    --md-primary-fg-color--dark:  #235278; */
+      --md-admonition-icon--image: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V5h14m0-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2m-5.04 9.29-2.75 3.54-1.96-2.36L6.5 17h11l-3.54-4.71Z"/></svg>')
+    }
+    .md-typeset .admonition.image,
+    .md-typeset details.image {
+      border-color: #009674;
+    }
+    .md-typeset .image > .admonition-title,
+    .md-typeset .image > summary {
+      background-color: #83ffe23f;
+    }
+    .md-typeset .image > .admonition-title::before,
+    .md-typeset .image > summary::before {
+      background-color: #009674;
+      -webkit-mask-image: var(--md-admonition-icon--image);
+              mask-image: var(--md-admonition-icon--image);
+    }
+
+/*Pour faire des div grid cards*/
+.md-typeset .grid {
+  grid-gap:.4rem;
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(16rem,1fr));
+  margin:1em 0
+}
+.md-typeset .grid.cards>ol,
+.md-typeset .grid.cards>ul {
+  display:contents
+}
+.md-typeset .grid.cards>ol>li,
+.md-typeset .grid.cards>ul>li,
+.md-typeset .grid>.card {
+  border:.05rem solid rgba(100, 146, 253, 0.2);
+  border-radius: .2rem;
+  box-shadow: 0 3px 6px var(--md-shadow-z1);
+  display:block;
+  margin:0;
+  padding:.8rem;
+  transition:border .25s,box-shadow .25s
+}
+.md-typeset .grid.cards>ol>li:focus-within,
+.md-typeset .grid.cards>ol>li:hover,
+.md-typeset .grid.cards>ul>li:focus-within,
+.md-typeset .grid.cards>ul>li:hover,
+.md-typeset .grid>.card:focus-within,
+.md-typeset .grid>.card:hover {
+  border-color:var(--md-primary-fg-color--light);
+  box-shadow:var(--md-shadow-z2)
+}
+.md-typeset .grid.cards>ol>li>hr,
+.md-typeset .grid.cards>ul>li>hr,
+.md-typeset .grid>.card>hr {
+  margin-bottom:1em;
+  margin-top:1em
+}
+.md-typeset .grid.cards>ol>li>:first-child,
+.md-typeset .grid.cards>ul>li>:first-child,
+.md-typeset .grid>.card>:first-child {
+  margin-top:0
+}
+.md-typeset .grid.cards>ol>li>:last-child,
+.md-typeset .grid.cards>ul>li>:last-child,
+.md-typeset .grid>.card>:last-child {
+  margin-bottom:0
+}
+.md-typeset .grid>*,
+.md-typeset .grid>.admonition,
+.md-typeset .grid>.highlight>*,
+.md-typeset .grid>.highlighttable,
+.md-typeset .grid>.md-typeset details,
+.md-typeset .grid>details,
+.md-typeset .grid>pre {
+  margin-bottom:0;
+  margin-top:0
+}
+.md-typeset .grid>.highlight>pre:only-child,
+.md-typeset .grid>.highlight>pre>code,
+.md-typeset .grid>.highlighttable,
+.md-typeset .grid>.highlighttable>tbody,
+.md-typeset .grid>.highlighttable>tbody>tr,
+.md-typeset .grid>.highlighttable>tbody>tr>.code,
+.md-typeset .grid>.highlighttable>tbody>tr>.code>.highlight,
+.md-typeset .grid>.highlighttable>tbody>tr>.code>.highlight>pre,
+.md-typeset .grid>.highlighttable>tbody>tr>.code>.highlight>pre>code {
+  height:100%
+}
+.md-typeset .grid>.tabbed-set {
+  margin-bottom:0;
+  margin-top:0
+}
+/*---------------------------------------------------*/
+/* Pour les boutons de la page d'accueil */
+@media only screen and (max-width: 767px) {
+  .mobile-only {
+      display: block;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .mobile-only {
+      display: none;
+  }
+}
+/* Style des boutons */
+.md-button-custom {
+  display: inline-block;
+  padding: 10px;
+  margin: 3px; /* Diminuez la marge ici pour réduire l'espace entre les boutons */
+  color: white !important; /* Changez la couleur du texte en blanc */
+  background-color: #00c89b; /* Couleur de fond par défaut */
+  border: none;
+  border-radius: 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.md-button-custom:hover {
+  background-color: #00644d;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+/*-Hauteur logo ALL ROADS-*/
+.md-header__button.md-logo img {
+  height: 45px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.md-nav__title .md-nav__button.md-logo img {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.md-header__button.md-logo {
+  margin: 2px;
+  padding: 4px;
+}
+
+/*-Bordure et ombre sur les admonitions-*/
+div.admonition {
+  box-shadow: 0 3px 6px var(--md-shadow-z1) !important;
+}
+details {
+  box-shadow: 0 3px 6px var(--md-shadow-z1) !important;
+}
+
+/*Make mobile title shorter*/
+@media screen and (max-width: 76.2344em) {
+  .md-nav--primary .md-nav__title[for=__drawer] {
+    white-space: normal; /* Allows the text to wrap */
+    word-wrap: break-word; /* Break long words if necessary */
+    width: 100%; /* Ensure it takes up the full width */
+  }
+}
