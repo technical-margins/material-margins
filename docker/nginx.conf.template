@@ -21,10 +21,5 @@ server {
             root /usr/share/nginx/html;
             internal; 
         }
-
-        # Rewrite 'src' and 'href' attributes to include the path prefix dynamically
-        sub_filter 'src="/' 'src="$extendedPrefix';
-        sub_filter 'href="/' 'href="$extendedPrefix';
-        sub_filter_once off;
     }
 }

@@ -1,5 +1,5 @@
 ---
-title: La Documentation Utilisateur, l'invisible qui rend visible
+title: La documentation utilisateur, l'invisible qui rend visible
 date: 2024-10-29
 authors:
   - Lilon
@@ -8,7 +8,7 @@ categories:
   - TechWriting
 ---
 
-# La Documentation Utilisateur : l'invisible qui rend visible
+# La documentation utilisateur : l'invisible qui rend visible
 
 ## Au cœur de l'expérience utilisateur
 
