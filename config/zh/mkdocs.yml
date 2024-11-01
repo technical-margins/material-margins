@@ -3,12 +3,12 @@ docs_dir: '../../docs/zh'                            # Where to find the Markdow
 site_dir: '../../generated/zh'                       # Where to put the HTML files.
 
 theme:
-  language: zh
+  language: zh-TW
 
 plugins:
   - blog
   - search:                                         
-      lang: zh                                      # Set language for search
+      lang: zh-TW                                      # Set language for search
 
 ################ Navigation ################
 # The navigation is where you can customize the navigation (TOC). You can add, remove, and reorder the different sections and pages of the site. You can also add links to external sites. By default, the navigation is the same for all languages, and the translation is done in the i18n plugin. The i18n plugin also allows you to customize the navigation for each language (cf. their documentation).

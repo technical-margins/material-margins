@@ -1,33 +1,6 @@
 @import "https://use.fontawesome.com/releases/v5.7.2/css/all.css";
 
-/* Logo darl-light mode toogle
-#logo_light_mode {
-  display: var(--md-footer-logo-light-mode);
-}
 
-#logo_dark_mode {
-  display: var(--md-footer-logo-dark-mode);
-}
-
-[data-md-color-scheme="light-mode"] {
-  --md-footer-logo-dark-mode:         none;
-  --md-footer-logo-light-mode:         block;
-}
-
-[data-md-color-scheme="dark-mode"] {
-  --md-footer-logo-dark-mode:         block;
-  --md-footer-logo-light-mode:         none;
-} */
-
-/*.md-header {
-    background-color: rgb(50, 50, 102) !important;
-}*/
-
-/*  TO DISABLE FR-EN TOOGLE
-.md-select .md-header__button.md-icon {
-  display: none;
-}
-*/
 
 img {
   border: 0px solid #D2D2D2;
@@ -37,23 +10,28 @@ img {
 h1 {
     color: var(--md-accent-fg-color) !important;
     font-weight: bold !important;
+    font-family: Roboto Slab !important;
 }
 
 h2 {
     color: var(--md-typeset-a-color) !important;
+    font-family: Roboto Slab !important;
 }
 
 h3 {
     color: var(--md-typeset-a-color) !important;
+    font-family: Roboto Slab !important;
 }
 
 h4 {
   color: var(--md-typeset-a-color) !important;
+  font-family: Roboto Slab !important;
 }
 
 h5 {
   color: var(--md-typeset-a-color) !important;
   margin-left: 15px !important;
+  font-family: Roboto Slab !important;
 }
 
 ul ul {
@@ -95,7 +73,6 @@ ul ul ul {
   color: var(--md-banner-fg-color) !important;
 }
 
-/* For tms22_green and tms24_green color schemes */
 .md-tabs {
   background-color: var(--md-banner-tabs-bg-color) !important;
 }
@@ -108,6 +85,7 @@ ul ul ul {
   color: #e3003b;
 }
 
+/* Light color scheme */
 [data-md-color-scheme="margin"] {
     --md-typeset-a-color:         #009799; /* 02ee78 */
     --md-primary-fg-color:        #009799;
@@ -123,6 +101,12 @@ ul ul ul {
     --md-shadow-z1:               rgba(154, 161, 177, 0.1);
   }
 
+[data-md-color-scheme="margin"]{
+    .md-tabs {
+      background-image: linear-gradient(#009799, white);
+  }
+}
+
 /* Slate color scheme */
 [data-md-color-scheme="slate"] {
     --md-primary-fg-color--dark:  #007d99 !important;
@@ -134,9 +118,16 @@ ul ul ul {
     --md-banner-bg-color:         #005b6c !important;
     --md-banner-fg-color:         #f2f2f2 !important;
     --md-banner-tabs-bg-color:    #005b6c !important;
-    --md-card-bg-color:           #17191f !important;  
+    --md-card-bg-color:           #17191f !important;
+ /*   --md-default-bg-color:        hsl(223.64deg 15.49% 13.92%);*/
   } 
 
+[data-md-color-scheme="slate"]{
+    .md-tabs {
+      background-image: linear-gradient(#005b6c, hsl(223.64deg 15.49% 13.92%));
+  }
+}
+  
 :root {
 /*    --md-primary-fg-color:        #3984c4;
     --md-primary-fg-color--light: #449eea;

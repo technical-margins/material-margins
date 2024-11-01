@@ -1,53 +1,59 @@
 ---
-title: '突破表现的束缚：致音乐高原的颂歌'
+title: '突破「performance」的束缚：致音乐高原的颂歌'
 date: 2024-10-30
 authors:
     - Lilon
-slug: eloge_du_plateau
-categories:
-  - 音乐
+slug: ode_to_the_plateau  
+categories:  
+  - 音樂  
+  - 興趣  
+  - 隨想  
 ---
 
-## 突破表现的束缚：致音乐高原的颂歌
+# 擺脫「performance」的束縛：音樂平臺的禮讚
 
-## 请让我的爱好自由自在
+## 遠離聚光燈下，我的音樂並非一場表演 🎆🎸
 
-"你弹吉他这么久了，现在一定很厉害吧！来表演一首歌怎么样？"这样充满期待的话，我听过多少次？在我们这个执着于表现的社会里，音乐似乎被双重要求所困。作为一个在法语和英语环境中穿梭的人，我深深体会到"表现"（performance）一词的双重含义：在法语中，它强调达到卓越的技能水平和成就；而在英语中，它更侧重于展示和表演的行为。这两种期待在今天的音乐世界中交织在一起——社会似乎要求音乐爱好者不仅要精通技艺，还要随时准备展示表演。
+「妳彈吉他已經這麼久了，應該已經是位高手了吧！彈一首給我們聽吧？」這句話，帶著滿滿的期待，我不知道聽了多少遍了。在我們這個對「表現」充滿渴望的社會中，音樂似乎被束縛在技術卓越和展示的雙重要求之下。在法語中，「performance」象徵著追求高標準，而在英語中，它則偏向於舞台和表演的意涵。就這樣，我在這兩種詮釋之間掙扎——或許恰到好處，因為似乎人們對音樂家，哪怕是業餘的，也抱有完美掌控和隨時表演的期望。
 
-但是，难道没有另一种更自由的体验音乐的方式吗？
+但是否還有另一種更親密、更自由的方式來體驗音樂呢？
 
 <!-- more -->
 
-## 表现的双重暴政
+![享受你的興趣](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09c917d0-f5ca-4b29-a706-5e3ed5489e13/digqw14-428e6670-9b8b-4f15-93f2-2e5130ffdbbc.jpg/v1/fill/w_900,h_957,q_75,strp/guitar_and_plants_doodle_by_li__lon_digqw14-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTU3IiwicGF0aCI6IlwvZlwvMDljOTE3ZDAtZjVjYS00YjI5LWE3MDYtNWUzZWQ1NDg5ZTEzXC9kaWdxdzE0LTQyOGU2NjcwLTliOGItNGYxNS05M2YyLTJlNTEzMGZmZGJiYy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.v3SNDX9lYvaUqlQpXwwdt0Zu_H8f7IgPrGNxCvmg_vs)
 
-想象一下，如果我们把同样的逻辑应用到其他爱好上。我们会对热爱阅读的朋友说："你读书这么久了，现在肯定写出小说了吧！"对喜欢画画的人说："练习这么多年了，什么时候可以看你的展览？"会想到问一个热衷電子游戏的人："你从游戏机发布就开始玩了，现在一定在参加电竞比赛吧？" 
+## 表現的雙重壓力
 
-在音乐方面，这种双重压力——既要有成果又要有表演——似乎是不可避免的。
+想像一下，這種表現的邏輯被應用到其他的愛好上。會不會有人對熱愛閱讀的朋友說：「你已經讀了這麼多書，應該也寫過小說了吧？」又或者對喜歡畫畫的人說：「你這麼多年的畫畫經驗，什麼時候要舉辦畫展？」這些話聽起來也許不太荒謬，甚至可以當作玩笑說出口。但假如語氣再真誠些：「你玩 PS4 玩了這麼久，應該可以參加電競比賽了吧？」
 
-这种压力悄悄渗入我们的爱好中，即使这些爱好本应是放松和自由的空间。把我们的激情转变成另一种形式的工作，这不是很矛盾吗？当我们已经在职业生活中投入持续改进的努力时，我们的爱好不应该成为远离这种无情要求的避风港吗？
+當涉及音樂時，這種表現的雙重壓力——成績和展示——似乎無法避免。它潛移默化地滲透，將應該是自由的空間變成另一個「工作」的場域，成為我們在職場努力追求「不斷進步」的延伸。當我們的日常生活已經圍繞著「更好更優」的追求，難道我們的興趣愛好不該是避風港，遠離這種不斷精進的壓力嗎？
 
-## 高原的自由
+## 平臺的自由
 
-如果我们改变观点呢？在学习中，我们经常谈论"高原期"，即尽管经常练习，但感觉不再进步的阶段。但如果我们不把高原期视为需要克服的障碍，而是把它看作一个可以安居的地方呢？ 
+如果我們換個視角呢？
 
-想象广阔的地理平原，高耸却稳定，邀请我们沉思而不是不断攀登。音乐高原可以成为这样一个地方，我们可以简单地存在，探索，而不必不断追求进步或证明什么。这不是很解放吗？
+在學習中，我們常提到「平臺期」，這是一段儘管勤奮練習但進展似乎停滯的時期。「突破平臺期！」YouTube 上的訓練大師這麼呼喊，不論是在學語言還是學音樂的影片中都能聽到這句話。但為什麼不把這平臺視為可以駐足的地方，而不是需要克服的障礙呢？
 
-## 探索的生活空间
+試想那遼闊的高原：寬廣而平靜，最多微微起伏，邀請著我們去沉思而非一味地攀登。音樂的平臺可以成為這樣的空間，一個沒有壓力、不需爭先恐後的存在之地。只需停留、探索，無需追求其他目標。這難道不讓人感到解放嗎？
 
-在高原上，练习变成了一种冥想体验。与其追求精通，你可以简单地跟着伴奏即兴演奏，让你的手指和耳朵漫游，享受找到合适音符的简单乐趣，即使它们不完美。在这里，一个错误的音符既不好也不坏：它融入当下，不受判断。这不再是"工作"，而是与乐器的个人相遇，每个音符都在当下被体验。 
+![平臺上的田野](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09c917d0-f5ca-4b29-a706-5e3ed5489e13/digwqgl-bef3ecff-4176-4ffe-9a1d-fbf6dadb4050.jpg/v1/fill/w_1035,h_772,q_70,strp/countryside__doodle_by_li__lon_digwqgl-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTU1IiwicGF0aCI6IlwvZlwvMDljOTE3ZDAtZjVjYS00YjI5LWE3MDYtNWUzZWQ1NDg5ZTEzXC9kaWd3cWdsLWJlZjNlY2ZmLTQxNzYtNGZmZS05YTFkLWZiZjZkYWRiNDA1MC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ynM7Ve4E4el-h3pgTh0fjfr0agvfPdFbtUE-D6YOK3c)
 
-同样，解读谱子成为一次无压力的探索。不需要记住或完美掌握每个部分；你可以享受每个和弦，每个段落，仅仅是为了重现它的乐趣，即使它不完美。不需要记住每个细微差别——你可以享受体验，而不期待完美。
+## 一個探索的空間
 
-## 私密的避风港
+在平臺上，彈奏成為了一種冥想的體驗。與其追求完美，不如即興地彈一段，隨著背景音樂，讓指尖自由地游走，欣賞那些剛好合拍的音符——即便有些微偏差，那又如何呢？在這裡，一個「錯誤」的音符並無好壞之分；它在瞬間消失，自由而不受評價。這不再是一項「工作」，而是一場與樂器的親密邂逅，每個音符都活在當下。
 
-这种"高原"练习然后成为一个真正的避风港，不仅远离音乐表演的双重压力，也远离我们职业生活的压力和要求。这是一个我们可以简单存在的空间，不必证明我们的价值或显示持续进步。音乐成为更新的源泉，成为我们结果导向活动的必要平衡。
+同樣地，解讀樂譜也可以是無壓力的探索。不必記住每個部分；你可以享受每一個和弦、每一段旋律，單純為了重現那份快樂，哪怕是不那麼完美的重現。無需完美，只需體驗的純粹喜悅。
 
-## 温和的抵抗
+## 一個私密的避風港
 
-保持对音乐的"高原"态度成为对社会将每项活动都转变为优化机会的趋势的抵抗行为。这是一个宣言，表明在我们的生活中拥有摆脱这种无情改进压力的空间不仅是可能的，而且是必要的。 
+「駐足於平臺」的練習成為一種真正的避風港——它不僅抵擋著表現的壓力，也緩解了日常生活的緊張與要求。這是一個讓你不必證明什麼、測量價值或展現進步的空間。音樂成為一種充電的方式，是那些以結果為中心的活動中必不可少的對比。
 
-通过保护我们的爱好免受这种压力，我们让自己能够将改进努力集中在真正需要的地方。这不是一种智慧吗？
+![植物成長](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09c917d0-f5ca-4b29-a706-5e3ed5489e13/digqx4w-0257921f-3c52-4d33-a377-ef0f8f222901.jpg/v1/fill/w_900,h_783,q_75,strp/pots_doodles_by_li__lon_digqx4w-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzgzIiwicGF0aCI6IlwvZlwvMDljOTE3ZDAtZjVjYS00YjI5LWE3MDYtNWUzZWQ1NDg5ZTEzXC9kaWdxeDR3LTAyNTc5MjFmLTNjNTItNGQzMy1hMzc3LWVmMGY4ZjIyMjkwMS5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Rlra3xNqZUcDyPkpf2geNTZuBRor2-7Flrdj9pCT0gk)
 
-所以让我们敢于宣称我们的高原，这些唯一衡量标准是当下乐趣的避风港，探索优先于精通，孤独成为创造力量的地方。在一个痴迷于进步和表现的世界里，有意识地选择高原成为一种自由的行为。
+## 柔和的抗爭
 
-如果我们一起敢于用不同的方式看待音乐，会怎么样呢？
+保持這種「平臺」的音樂方式，成為一種對社會強調優化表現的柔和抗爭。這是一種聲明：我們的生活中，確實有些空間不需要不斷地自我提升，這是可能的——也是必要的。
+
+透過將興趣愛好從這種壓力中解放出來，我們可以將努力用在真正需要的地方。這難道不是一種智慧嗎？所以讓我們捍衛我們的平臺，那些只需享受當下的避風港，那些探索勝過掌控、孤獨成為創造力源泉的空間。在這個被進步和表現迷住的世界中，有意識地選擇平臺，便成為一種自由的象徵。
+
+或許，我們可以大膽地以不同方式來看待自己的興趣愛好？

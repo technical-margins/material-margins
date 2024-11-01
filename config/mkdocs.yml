@@ -40,7 +40,7 @@ theme:
             name: Light mode | Mode clair
 # The font for the theme.
     font:
-        text: Red Hat Display
+        text: Nunito
         code: Roboto Mono
 # To change the icons of the admonitions (adminition must be enabled in the markdown_extensions section).
     icon:
