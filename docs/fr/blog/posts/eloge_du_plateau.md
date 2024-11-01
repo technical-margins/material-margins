@@ -12,7 +12,7 @@ categories:
 
 # Se libérer de la performance : éloge du plateau musical
 
-## À l'abri des projecteurs, ma musique n'est pas un spectacle 🎆🎸
+## À l'abri des projecteurs, ma musique n'est pas un spectacle 🎸
 
 "Tu joues de la guitare depuis si longtemps, tu dois être une virtuose maintenant ! Tu nous joues un morceau ?" Combien de fois ai-je entendu ces mots, teintés d'attente ? Dans notre société avide de performance, la musique semble enchaînée par un double impératif : celui de l'excellence technique et celui du spectacle. En français, "performance" résonne comme le haut niveau à atteindre, tandis qu'en anglais, le mot gravite du côté de la scène, du show. Et me voilà, coincée entre ces deux langues, à mêler ces significations — peut-être à juste titre, car il semble qu'on attende du musicien, même amateur, une maîtrise irréprochable et qu'il se donne en spectacle.
 

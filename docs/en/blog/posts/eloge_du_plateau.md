@@ -31,7 +31,7 @@ When it comes to music, this double pressure of performance — both as achievem
 
 What if we shifted perspective?
 
-In learning, we often speak of the “plateau” as a phase where, despite regular practice, progress appears to stagnate. “Push past the plateau!” cry the training gurus on YouTube, whether about learning languages or music. But instead of viewing the plateau as an obstacle, why not see it as a place to inhabit?
+In learning, we often speak of the “plateau” as a phase where, despite regular practice, progress appears to stagnate. “Push past the plateau!” enjoin the training gurus on YouTube, whether about learning languages or music. But instead of viewing the plateau as an obstacle, why not see it as a place to inhabit?
 
 Picture vast plains: elevated yet calm, gently undulating at most, inviting contemplation rather than ceaseless climbing. The musical plateau could become that space where we exist without pressure, without striving ever higher. Just being there, exploring, with no goal beyond the moment itself. Isn’t that liberating?
 
