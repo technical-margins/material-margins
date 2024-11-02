@@ -5,19 +5,22 @@ authors:
 slug: margin
 categories:
   - Pensées en vrac
+  - Marges
 ---
 
-# Notes en marge : une exploration de l'espace oublié
+# Marges techniques : une exploration de l'espace oublié
 
-Pourquoi *Margin Annotations* (Notes en marge) ? Pourquoi pas, pourrait-on dire. C'est un titre venu tout naturellement. C'est là, dans la marge, que se faufile la vie. En repensant à mes années de collège, de lycée, même d'université, je revois mes cahiers, mes feuilles volantes, marqués de petites esquisses, griffonnées sur le côté, juste en bordure. Ces marges, loin d'être vides, étaient des espaces vivants, des friches où les idées déambulaient sans contrainte, des pensées qui sortaient, sans permission, du cadre officiel des leçons. Dessiner dans les marges, pour moi, c'était une façon d'écouter, de méditer – de laisser la pensée se dérouler, de s'aventurer.
+Pourquoi *Technical Margins* (Marges techniques) ? Pourquoi pas, pourrait-on dire. C'est un titre venu tout naturellement. C'est là, dans la marge, que se faufile la vie. En repensant à mes années de collège, de lycée, même d'université, je revois mes cahiers, mes feuilles volantes, marqués de petites esquisses, griffonnées sur le côté, juste en bordure. Ces marges, loin d'être vides, étaient des espaces vivants, des friches où les idées déambulaient sans contrainte, des pensées qui sortaient, sans permission, du cadre officiel des leçons. Dessiner dans les marges, pour moi, c'était une façon d'écouter, de méditer – de laisser la pensée se dérouler, de s'aventurer.
 
 Ce lien entre la marge et la liberté créative me suit aujourd'hui jusque dans mon travail de rédactrice technique. La documentation, un peu comme ces dessins d'antan, existe souvent en marge du produit. On la consulte si besoin, elle n'est pas le centre, et pourtant elle est là, à sa place d'ombre, prête à s'élancer, à enrichir l'expérience utilisateur. Et même si elle est étiquetée "technique", elle garde toujours en elle cette petite marge de liberté, ce coin secret où l'on glisse, malgré soi, un peu de créativité.
+
+<!-- more -->
 
 ## La marge comme espace créatif : au-delà du cadre
 
 Mais pourquoi ce goût pour la marge, cette attirance pour ce qui n'est ni dedans, ni dehors ? Peut-être parce que, dans la marge, on peut esquiver la contrainte du cadre central. Ce qui s'y glisse est moins formel, plus libre. Et il ne s'agit pas seulement des pages d'un cahier – la marge est une idée, un lieu mental où l'on ose imaginer, rêver, des idées qui resteraient un peu timides au centre de la scène.
 
-Gérard Genette parle des marges comme de zones ni dans le texte, ni tout à fait hors de lui, qui influencent son interprétation. Ce péritexte, dit-il, est une périphérie qui nous appelle, nous laisse un indice pour entrer dans le texte, comprendre son code, peut-être ses intentions secrètes. De la même façon, la documentation que je façonne pour accompagner un logiciel joue ce rôle d'intermédiaire : elle n'est pas exactement le produit, mais elle en fait partie. Elle éclaire, elle guide, elle pose les jalons.
+Gérard Genette parle des marges comme de zones ni dans le texte, ni tout à fait hors de lui, qui influencent son interprétation. Ce paratexte, dit-il, est une périphérie qui nous appelle, nous laisse un indice pour entrer dans le texte, comprendre son code, peut-être ses intentions secrètes. De la même façon, la documentation que je façonne pour accompagner un logiciel joue ce rôle d'intermédiaire : elle n'est pas exactement le produit, mais elle en fait partie. Elle éclaire, elle guide, elle pose les jalons.
 
 ## Marginalité et chemins de traverse
 
@@ -35,6 +38,6 @@ Peut-être est-ce cela, finalement, qui m'attire tant dans cette idée de marge 
 
 Les marges – qu'elles soient sur des cahiers, dans une pensée ou dans la culture – sont tout sauf accessoires. Elles sont des espaces de liberté, de découverte, où s'articulent souvent les enjeux essentiels. La documentation que je construis, en marge de l'application, joue un rôle tout aussi décisif : elle rend le complexe accessible, construit des ponts invisibles.
 
-Ce blog, *Notes en marge*, est en soi une invitation à explorer ces territoires discrets, mais fertiles, là où la créativité et la pensée prennent une dimension plus ample. Ce blog, c'est un peu une échappée belle en marge de mon travail formel de documentation technique, un espace qui ne répond pas tout à fait aux mêmes contraintes, où la pensée vagabonde et les idées s'épanouissent, loin des exigences du produit ou des normes de clarté fonctionnelle.
+Ce blog, *Technical Margins*, est en soi une invitation à explorer ces territoires discrets, mais fertiles, là où la créativité et la pensée prennent une dimension plus ample. Ce blog, c'est un peu une échappée belle en marge de mon travail formel de documentation technique, un espace qui ne répond pas tout à fait aux mêmes contraintes, où la pensée vagabonde et les idées s'épanouissent, loin des exigences du produit ou des normes de clarté fonctionnelle.
 
 Ce sont bien ces marges qui donnent de l'élan, qui nourrissent la pratique quotidienne. Car, dans l'écriture de la documentation comme dans celle de ce blog, ce qui semble en périphérie finit souvent par toucher le cœur du sujet.

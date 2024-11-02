@@ -19,11 +19,11 @@ Imaginez-vous déballant votre nouvelle friteuse électrique, prête à révolut
 
 ## Le travail invisible du rédacteur technique
 
-Dans la ruche en perpétuelle ébullition du développement logiciel, la documentation occupe une place paradoxale. Bien que reconnue comme indispensable, elle est bien souvent reléguée au second plan dans la pratique. **"On documentera plus tard", "L'important est de livrer le produit"** — voici des phrases que chaque rédacteur technique connaît, presque comme une mélodie en sourdine.
+Dans la ruche en perpétuelle ébullition du développement informatique, la documentation occupe une place paradoxale. Bien que reconnue comme indispensable, elle est bien souvent reléguée au second plan dans la pratique. **"On documentera plus tard", "L'important est de livrer le produit"** – voici des phrases que chaque rédacteur technique connaît, presque comme une mélodie en sourdine.
 
-Pourtant, il existe d'autres modèles inspirants. Dans l'industrie aéronautique, chaque avion est livré avec des milliers de pages de documentation méticuleuse, qui ne se contente pas d'expliquer mais qui garantit sécurité et efficacité. Ce n'est pas un luxe ; dans ce secteur, la documentation est aussi vitale que les moteurs.
+Pourtant, il existe d'autres modèles inspirants. Dans l'industrie aéronautique, chaque avion est livré avec des milliers de pages de documentation méticuleuse, qui ne se contentent pas d'expliquer mais qui garantissent sécurité et efficacité. Ce n'est pas un luxe ; dans ce secteur, la documentation est aussi vitale que les moteurs.
 
-Mais transposer ce modèle au développement logiciel reste un défi, surtout dans les petites et moyennes entreprises. Si bien souvent, les ressources sont limitées, l'engagement et la rigueur peuvent rendre ce travail possible. Il s'agit alors de dépasser la vision de la documentation comme une tâche "secondaire", souvent laissée aux développeurs ou aux chefs de projet, comme si la rédaction était un simple complément, un "plus" facultatif. À bien des égards, cela revient à demander à un pilote de ligne de rédiger lui-même le manuel de son avion entre deux vols — un écart qui souligne, à mes yeux, l'importance de formaliser ce rôle essentiel.
+Mais transposer ce modèle au développement logiciel reste un défi, surtout dans les petites et moyennes entreprises. Si bien souvent, les ressources sont limitées, l'engagement et la rigueur peuvent rendre ce travail possible. Il s'agit alors de dépasser la vision de la documentation comme une tâche "secondaire", souvent laissée aux développeurs ou aux chefs de projet, comme si la rédaction était un simple complément, un "plus" facultatif. À bien des égards, cela revient à demander à un pilote de ligne de rédiger lui-même le manuel de son avion entre deux vols – un écart qui souligne, à mes yeux, l'importance de formaliser ce rôle essentiel.
 
 ## De la complexité à la clarté : mon rôle de traductrice
 
