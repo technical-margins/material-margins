@@ -1,5 +1,5 @@
 # docs_dir: 'docs'                            # Where to find the Markdown files.
-site_name: 'Margin Annotations'             # The name of the site.
+site_name: 'Technical Margins'             # The name of the site.
 site_author: Lilon                          # The author of the site.
 # site_dir: 'generated'                       # Where to put the HTML files.
 site_description: "..."                     # The description of the site.
@@ -87,6 +87,9 @@ extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
 
 extra:
+#  social:
+#    - icon: fontawesome/brands/linkedin
+#      link: https://www.linkedin.com/in/.../
   alternate:
     - name: English
       link: /en/
@@ -169,7 +172,7 @@ plugins:
          - custom-skip-class-name
        auto_caption: false
        caption_position: bottom
-# For variable management (ex. Product name, company name, etc.). Use pip to install the macros plugin: pip install mkdocs-macros-plugin
+# For variable management, use pip to install the macros plugin: pip install mkdocs-macros-plugin
 # Macros are configured in the extra section of this file.
 # More info: https://jimandreas.github.io/mkdocs-material/reference/variables/
   - macros

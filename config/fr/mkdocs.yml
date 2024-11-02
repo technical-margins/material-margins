@@ -17,3 +17,5 @@ nav:
     - index.md
   - Blog:
     - blog/index.md
+  - À propos:
+    - about/index.md
