@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background-color: #009799;
+            color:aliceblue;
+            font-family: 'Roboto Slab';
+        }
+    </style>
+    <title>Redirection based on Browser Language</title>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // Récupération de la langue principale du navigateur
+            const language = navigator.language || navigator.userLanguage;
+
+            // Vérification de la langue et redirection appropriée
+            if (language.startsWith("fr")) {
+                window.location.href = "/fr/index.html";
+            } else if (language.startsWith("zh")) {
+                window.location.href = "/zh/index.html";
+            } else {
+                window.location.href = "/en/index.html";
+            }
+        });
+    </script>
+</head>
+<body>
+    <p>Redirecting based on your browser's language settings...</p>
+</body>
+</html>
