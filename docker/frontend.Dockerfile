@@ -29,6 +29,9 @@ LABEL stage="serve" \
 # Copy Nginx configuration template for handling caching and URL redirection
 COPY docker/nginx.conf.template /etc/nginx/templates/default.conf.template
 
+# Copy the redirection HTML page depending on browser's language
+COPY docs/index.html /usr/share/nginx/html
+
 # Copy the generated HTML files from the build stage to the Nginx directory
 COPY --from=build docs/generated /usr/share/nginx/html
 

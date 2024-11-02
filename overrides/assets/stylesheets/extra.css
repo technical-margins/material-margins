@@ -1,11 +1,14 @@
 @import "https://use.fontawesome.com/releases/v5.7.2/css/all.css";
 
-
-
 img {
   border: 0px solid #D2D2D2;
   border-radius: 5px;
-  }
+}
+
+.image_cropper {
+  border-radius: 50%;
+  filter: hue-rotate(20deg);
+}
 
 h1 {
     color: var(--md-accent-fg-color) !important;
@@ -89,7 +92,7 @@ ul ul ul {
 [data-md-color-scheme="margin"] {
     --md-typeset-a-color:         #009799; /* 02ee78 */
     --md-primary-fg-color:        #009799;
-    --md-primary-fg-color--light: #f7f297;
+    --md-primary-fg-color--light: #b2ebe9;
     --md-primary-fg-color--dark:  #009799;
     --md-accent-fg-color:         #009799;
     --md-primary-bg-color:        #d8fbfa;
@@ -97,7 +100,7 @@ ul ul ul {
     --md-banner-fg-color:         #d8fbfa;
     --md-banner-tabs-bg-color:    #009799;
     --md-card-bg-color:           #d8fbfa;
-    --md-footer-bg-color:         #00726a;
+    --md-footer-bg-color:         #009799;
     --md-shadow-z1:               rgba(154, 161, 177, 0.1);
   }
 
