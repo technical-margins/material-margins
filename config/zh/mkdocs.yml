@@ -1,6 +1,6 @@
 INHERIT: ../mkdocs.yml
-docs_dir: '../../docs/zh'
-site_dir: '../../generated/zh'
+docs_dir: '../../docs/zh/'
+site_dir: '../../generated/zh/'
 site_description: 'Technical Margins 是一個探索技術寫作邊緣的空間。針對技術寫作者和好奇的讀者，這個部落格深入文件的隱藏層面、隨機思考，以及傳遞多元資訊的藝術。'
 
 theme:

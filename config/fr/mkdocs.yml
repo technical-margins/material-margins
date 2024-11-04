@@ -1,6 +1,6 @@
 INHERIT: ../mkdocs.yml
-docs_dir: '../../docs/fr'
-site_dir: '../../generated/fr'
+docs_dir: '../../docs/fr/'
+site_dir: '../../generated/fr/'
 site_description: "Technical Margins est un espace d'exploration des marges de la rédaction technique. Destiné aux rédacteurs techniques et aux esprits curieux, ce blog arpente les couches dérobées de la documentation, des réflexions aléatoires et l'art de partager des informations variées."
 
 theme:
