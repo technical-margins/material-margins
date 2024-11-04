@@ -6,7 +6,8 @@ FROM squidfunk/mkdocs-material:9.0.9
 #    pip install --no-cache-dir lxml>=3.5.0 && \
 #    apk del .build-deps
 
-RUN pip install mkdocs-glightbox mkdocs-macros-plugin
+RUN pip install mkdocs-glightbox mkdocs-macros-plugin && \
+    pip install pymdown-extensions --force
 
 RUN git config --global --add safe.directory /github/workspace
 
