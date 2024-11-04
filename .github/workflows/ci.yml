@@ -31,8 +31,8 @@ jobs:
 
       - name: Copy redirect and 404 pages
         run: |
-          cp docs/index.html generated/
-          cp generated/en/404.html generated/
+          sudo cp docs/index.html generated/
+          sudo cp generated/en/404.html generated/
 
       - uses: actions/setup-python@v4
         with:
