@@ -34,10 +34,10 @@ jobs:
         run: mkdocs build --config-file=config/zh/mkdocs.yml
         
       - name: Copy redirect index page
-        run: cp docs/index.html site/
+        run: cp docs/index.html generated/
         
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
+          publish_dir: ./generated
