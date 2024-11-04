@@ -27,7 +27,7 @@ jobs:
         uses: ./
         with:
           entrypoint: mkdocs
-          args: build --config-file=onfig/zh/mkdocs.yml 
+          args: build --config-file=config/zh/mkdocs.yml 
 
 #     - name: Copy redirect index page
 #        run: sudo cp /docs/index.html /generated
