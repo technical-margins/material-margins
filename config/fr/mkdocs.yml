@@ -1,6 +1,7 @@
 INHERIT: ../mkdocs.yml
-docs_dir: '../../docs/fr'                            # Where to find the Markdown files.
-site_dir: '../../generated/fr'                       # Where to put the HTML files.
+docs_dir: '../../docs/fr'
+site_dir: '../../generated/fr'
+site_description: "Technical Margins est un espace d'exploration des marges de la rédaction technique. Destiné aux rédacteurs techniques et aux esprits curieux, ce blog arpente les couches dérobées de la documentation, des réflexions aléatoires et l'art de partager des informations variées."
 
 theme:
   language: fr
@@ -8,10 +9,8 @@ theme:
 plugins:
   - blog
   - search:                                         
-      lang: fr                                      # Set language for search
+      lang: fr
 
-################ Navigation ################
-# The navigation is where you can customize the navigation (TOC). You can add, remove, and reorder the different sections and pages of the site. You can also add links to external sites. By default, the navigation is the same for all languages, and the translation is done in the i18n plugin. The i18n plugin also allows you to customize the navigation for each language (cf. their documentation).
 nav:
   - Accueil:
     - index.md

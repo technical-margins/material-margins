@@ -1,10 +1,6 @@
-# docs_dir: 'docs'                            # Where to find the Markdown files.
-site_name: 'Technical Margins'             # The name of the site.
-site_author: Lilon                          # The author of the site.
-# site_dir: 'generated'                       # Where to put the HTML files.
-site_description: "..."                     # The description of the site.
+site_name: 'Technical Margins'
+site_author: Lilon
 use_directory_urls: false                   # true for web hosting? If true, the generated site will use directory style urls (foo/index.html) instead of single file urls (foo.html).
-copyright: 
 
 # Define logs to show during mkdocs serving or building
 validation:
@@ -20,13 +16,11 @@ validation:
 
 ################ Theme Configuration ################
 theme:
-    name: material                           # The name of the theme.
-#    favicon: assets/favicon.png            # The favicon is shared by all languages and is used in the browser tab [not working].
-    custom_dir: '../../overrides/'                 # This is where the customization of the theme lives.
-#    logo: assets/images/logo.png       # The logo is used in the header. It is shared by all languages. It changes according to the color scheme.
-    # For colors and look.
-    palette: # The color palette for the theme.
-        - scheme: margin # custom
+    name: material
+#    favicon: assets/favicon.png
+    custom_dir: '../../overrides/'
+    palette:
+        - scheme: margin
           primary: custom
           accent: custom
           toggle:
@@ -38,11 +32,9 @@ theme:
           toggle:
             icon: material/weather-hazy
             name: Light mode | Mode clair
-# The font for the theme.
     font:
         text: Nunito
         code: Roboto Mono
-# To change the icons of the admonitions (adminition must be enabled in the markdown_extensions section).
     icon:
       logo: fontawesome/solid/pen-nib
       menu: material/microsoft-xbox-controller-menu
@@ -62,27 +54,24 @@ theme:
         danger: material/radioactive-circle-outline
         bug: material/bell-circle-outline
         quote: material/comma-circle-outline
-# Features are the different components of the theme that you can enable or disable.
     features:
         - navigation.footer
-        - navigation.indexes        # to have individual home pages (index.md) for each section.
-        - navigation.path           # breadcrumb trail, not yet active, insiders only.
+        - navigation.indexes        # Individual home pages (index.md) for each section.
+        - navigation.path           # Breadcrumb trail, not yet active, insiders only.
         - navigation.sections
-        - navigation.tabs           # to have navigation by section at the top in the header, instead of a complete TOC on the left.
-#        - navigation.tabs.sticky   # so that navigation by section is always visible.
-        - navigation.top            # back to top button.
-        - toc.follow                # to follow the page in the TOC.
-#        - toc.integrate            # integrates the mini-TOC on the right (current page) into the general menu.
+        - navigation.tabs           # Navigation by section at the top, instead of a complete TOC on the left.
+#        - navigation.tabs.sticky   # So that navigation by section is always visible.
+        - navigation.top            # Back to top button.
+        - toc.follow                # Follow the page in TOC.
+#        - toc.integrate            # Mini-TOC on the right VS into the general menu.
 
 ################ Extra Configuration ################
-# The extra configuration is where you can add extra files to your site, like CSS and JavaScript files. You can also add extra variables that can be used in your markdown files.
 extra_css:
-  - assets/stylesheets/extra.css           # Used to customize the theme. Customizations must be tagged as important to override the theme's default styles. CSS is shared by all languages. 
-  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css # Used to render math equations.
+  - assets/stylesheets/extra.css 
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css # To render math equations.
 
 extra_javascript:
-  - assets/javascripts/redirect.js         # Used to redirect the user to the right contextual page using `?keyid=` and the mapping in `context_id_map.json`. JS is shared by all languages.
-  - assets/javascripts/katex.js                   # Used to render math equations.	
+  - assets/javascripts/katex.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
 
@@ -104,25 +93,24 @@ extra:
 #  analytics:
 #    provider: google
 #    property: G-...
-# Macros : this is where you can define variables that can be used in your markdown files. To use macros, you need to enable the macros plugin in the plugins section. In the markdown files, you can use the macros by using the following syntax: {{ macros.variable_name }} e.g. {{ product.name }}
+# Definig macros
   author:
     name: Lilon
   blog:
-    name: Margin Annotation
-  generator: false                        # To remove the "Generated with MkDocs" message in the footer.
+    name: Technical Margins
+  generator: false                        # Remove the "Generated with MkDocs" message in the footer.
 
 
 ################ Markdown Extensions ################
-# The markdown extensions are the different components of the markdown that you can enable or disable.
 markdown_extensions:
-  - admonition            # allows you to add special call-out blocks to your markdown.
-  - pymdownx.details      # supercharges the Admonition extension, making the resulting call-outs collapsible, allowing them to be opened and closed by the user.
-  - pymdownx.superfences: # allows for arbitrary nesting of code and content blocks inside each other, including admonitions, tabs, lists and all other elements.
+  - admonition            
+  - pymdownx.details
+  - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.snippets:    # allows for inserting markdown or HTML snippets into another markdown file
+  - pymdownx.snippets:    # For inserting markdown or HTML snippets into another markdown file
       base_path: [docs/assets/snippets]
       check_paths: true
   - attr_list             # allows you to add attributes to your markdown elements.
@@ -139,7 +127,6 @@ markdown_extensions:
       generic: true       # to use generic math delimiters.
 
 ################ Plugins ################
-# The plugins are the different components of the site that you can enable or disable. Some markdown are provided by default by mkdocs and material, but you can add more plugins to add more features to your site. For instance, glightbox, macros, and i18n are not provided by default by mkdocs and material, so you need to install them via pip and then add them to the plugins section.
 plugins:
   - blog:
       enabled: true
@@ -147,18 +134,16 @@ plugins:
       post_date_format: full
       categories_toc: true
 
-  - tags:             # Add tags to your markdown files, useful for search. Tags are added to the front matter of the markdown files.
+  - tags:
       enabled: true
 #      tags_file: tags.md
-  - search:           # Add search to your site, search needs to be enabled if other plugins are used.
+  - search:
       enabled: true                                         
       pipeline:
 #          - stemmer  # PB: the search only works on the beginning of words; if you search for a word in its entirety, it will not be found.
           - stopWordFilter # to remove common words from search.
           - trimmer   # to remove leading and trailing whitespace.
       separator: '[\s\-,:!=\[\]()"/]+\.(?!\d)&[lg]t;' # characters used to split words.
-# To open images in a lightbox (click to zoom). Use pip to install the glightbox plugin: pip install mkdocs-glightbox
-# More info: https://github.com/blueswen/mkdocs-glightbox
   - glightbox:
        touchNavigation: true
        loop: false    # to disable the loop.
@@ -172,7 +157,4 @@ plugins:
          - custom-skip-class-name
        auto_caption: false
        caption_position: bottom
-# For variable management, use pip to install the macros plugin: pip install mkdocs-macros-plugin
-# Macros are configured in the extra section of this file.
-# More info: https://jimandreas.github.io/mkdocs-material/reference/variables/
   - macros
