@@ -1,5 +1,6 @@
 ---
 date: 2024-11-01
+comments: true
 authors:
   - Lilon
 slug: margin

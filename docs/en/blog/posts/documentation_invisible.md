@@ -1,5 +1,6 @@
 ---
 date: 2024-10-29
+comments: true
 authors:
     - Lilon
 categories:

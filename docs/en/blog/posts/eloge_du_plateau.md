@@ -1,5 +1,6 @@
 ---
 date: 2024-10-30
+comments: true
 authors:
     - Lilon
 slug: ode_to_the_plateau  
