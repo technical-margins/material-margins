@@ -50,18 +50,18 @@ theme:
       next: material/skip-next-outline
       alternate: material/translate-variant
       admonition:
-        example: material/tooltip-outline
-        note: octicons/pin-16
-        abstract: octicons/checklist-16
-        info: octicons/info-16
-        tip: octicons/light-bulb-16
-        success: octicons/check-16
-        question: octicons/question-16
-        warning: octicons/alert-16
-        failure: octicons/x-circle-16
-        danger: octicons/zap-16
-        bug: octicons/bug-16
-        quote: fontawesome/solid/quote-left
+        example: material/tooltip-edit-outline
+        note: material/pin-outline
+        abstract: material/eye-outline
+        info: material/information-outline
+        tip: material/star-circle-outline
+        success: material/check-circle-outline
+        question: material/help-circle-outline
+        warning: material/alert-circle-outline
+        failure: material/close-circle-outline
+        danger: material/radioactive-circle-outline
+        bug: material/bell-circle-outline
+        quote: material/comma-circle-outline
 # Features are the different components of the theme that you can enable or disable.
     features:
         - navigation.footer
