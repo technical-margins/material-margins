@@ -1,4 +1,4 @@
-FROM squidfunk/mkdocs-material:9.0.9
+FROM squidfunk/mkdocs-material:9.5.38
 
 # required for mkdocs-git-committers-plugin-2
 # RUN apk add --no-cache --virtual .build-deps gcc libc-dev libxslt-dev && \
@@ -6,8 +6,7 @@ FROM squidfunk/mkdocs-material:9.0.9
 #    pip install --no-cache-dir lxml>=3.5.0 && \
 #    apk del .build-deps
 
-RUN pip install mkdocs-glightbox mkdocs-macros-plugin && \
-    pip install pymdown-extensions --force
+RUN pip install mkdocs-glightbox mkdocs-macros-plugin
 
 RUN git config --global --add safe.directory /github/workspace
 
