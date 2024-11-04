@@ -16,6 +16,8 @@ Ce lien entre la marge et la liberté créative me suit aujourd'hui jusque dans 
 
 <!-- more -->
 
+![Gribouillis dans la marge](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09c917d0-f5ca-4b29-a706-5e3ed5489e13/dihexpy-a55f4fc7-5bef-467e-ab31-215bc65f2b3a.jpg/v1/fit/w_828,h_972,q_70,strp/notebook_doodle_imagination_tree__by_li__lon_dihexpy-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTUwMiIsInBhdGgiOiJcL2ZcLzA5YzkxN2QwLWY1Y2EtNGIyOS1hNzA2LTVlM2VkNTQ4OWUxM1wvZGloZXhweS1hNTVmNGZjNy01YmVmLTQ2N2UtYWIzMS0yMTViYzY1ZjJiM2EuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.0nKNMwSUhXtHaIBOwPRTjWy9Ug2B6IDEav0im9o1uY0)
+
 ## La marge comme espace créatif : au-delà du cadre
 
 Mais pourquoi ce goût pour la marge, cette attirance pour ce qui n'est ni dedans, ni dehors ? Peut-être parce que, dans la marge, on peut esquiver la contrainte du cadre central. Ce qui s'y glisse est moins formel, plus libre. Et il ne s'agit pas seulement des pages d'un cahier – la marge est une idée, un lieu mental où l'on ose imaginer, rêver, des idées qui resteraient un peu timides au centre de la scène.
@@ -28,11 +30,13 @@ Mais il y a plus que cela : la marge est aussi un espace de vagabondage, de repl
 
 Suivre ces chemins de traverse, loin des routes battues, offre souvent des perspectives inédites. De la même manière, la documentation, en marge du produit, se tient en décalage. Elle ne partage pas les mêmes enjeux, elle a ses propres défis, ses propres détours. Ici, pas de gloire ni de feux de la rampe, mais une place discrète – et pourtant essentielle.
 
+<!--
 ## À la recherche des marges de la pensée
 
 Les marges, ce sont aussi des espaces philosophiques. Pour Derrida, elles sont des lieux où les notions figées se dissolvent, où les concepts eux-mêmes se déconstruisent et se réinventent. La marge, pour lui, n'est pas un simple ajout ; elle est un espace à part entière, où se cache ce qui ne peut être dit ailleurs, une ouverture sur ce qui est souvent ignoré, comme un souffle sous la surface.
 
 Peut-être est-ce cela, finalement, qui m'attire tant dans cette idée de marge : c'est un lieu "à côté" mais pas moins profond. Un lieu où l'esprit se libère et les idées se laissent aller à croître, à se mêler. Les marges sont des terrains d'essai et de réflexion.
+-->
 
 ## Pourquoi les marges comptent
 
