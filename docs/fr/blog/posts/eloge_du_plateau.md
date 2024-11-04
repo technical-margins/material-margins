@@ -9,11 +9,11 @@ categories:
   - Pensées en vrac
 ---
 
-# Se libérer de la performance : éloge du plateau musical
+# Aparté musical : éloge du plateau
 
-## À l'abri des projecteurs, ma musique n'est pas un spectacle 🎸
+## La musique à l'abri des projecteurs 🎸
 
-"Tu joues de la guitare depuis si longtemps, tu dois être une virtuose maintenant ! Tu nous joues un morceau ?" Combien de fois ai-je entendu ces mots, teintés d'attente ? Dans notre société avide de performance, la musique semble enchaînée par un double impératif : celui de l'excellence technique et celui du spectacle. En français, "performance" résonne comme le haut niveau à atteindre, tandis qu'en anglais, le mot gravite du côté de la scène, du show. Et me voilà, coincée entre ces deux langues, à mêler ces significations – peut-être à juste titre, car il semble qu'on attende du musicien, même amateur, une maîtrise irréprochable et qu'il se donne en spectacle.
+*"Tu joues de la guitare depuis si longtemps, tu dois être une virtuose maintenant ! Tu nous joues un morceau ?"* Combien de fois ai-je entendu ces mots, teintés d'attente ? Dans notre société avide de performance, la musique semble enchaînée par un double impératif : celui de l'excellence technique et celui du spectacle. En français, "performance" résonne comme le haut niveau à atteindre, tandis qu'en anglais, le mot gravite du côté de la scène, du show. Et me voilà, coincée entre ces deux langues, à mêler ces significations – peut-être à juste titre, car il semble qu'on attende du musicien, même amateur, une maîtrise irréprochable et qu'il se donne en spectacle.
 
 Mais n'existe-t-il pas une autre manière de vivre la musique, plus intime, plus libre ?
 
@@ -21,9 +21,9 @@ Mais n'existe-t-il pas une autre manière de vivre la musique, plus intime, plus
 
 ![Profiter de son hobby](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09c917d0-f5ca-4b29-a706-5e3ed5489e13/digqw14-428e6670-9b8b-4f15-93f2-2e5130ffdbbc.jpg/v1/fill/w_900,h_957,q_75,strp/guitar_and_plants_doodle_by_li__lon_digqw14-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTU3IiwicGF0aCI6IlwvZlwvMDljOTE3ZDAtZjVjYS00YjI5LWE3MDYtNWUzZWQ1NDg5ZTEzXC9kaWdxdzE0LTQyOGU2NjcwLTliOGItNGYxNS05M2YyLTJlNTEzMGZmZGJiYy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.v3SNDX9lYvaUqlQpXwwdt0Zu_H8f7IgPrGNxCvmg_vs)
 
-## La double tyrannie de la performance
+## La double pression de la performance
 
-Imaginez cette même logique de performance appliquée à d’autres passions. Dira-t-on à un ami qui dévore les livres : "Tu lis depuis si longtemps, tu as sûrement écrit un roman, non ?" Ou bien, à quelqu’un qui aime dessiner : "Avec tout ce temps passé, quand nous inviteras-tu à ton exposition ?" Certes, ces phrases ne semblent pas si saugrenues ; elles pourraient fort bien être lancées en galéjades. Mais imaginez avec aplomb : "Tu joues à la PS4 depuis des années, tu dois être prête pour les compétitions d’e-sport maintenant ?"
+Imaginez cette même logique de performance appliquée à d’autres passions. Dira-t-on à un ami qui dévore les livres : *"Tu lis depuis si longtemps, tu as sûrement écrit un roman, non ?"* Ou bien, à quelqu’un qui aime dessiner : *"Avec tout ce temps passé, quand nous inviteras-tu à ton exposition ?"* Certes, ces phrases ne semblent pas si saugrenues ; elles pourraient fort bien être lancées en galéjades. Mais imaginez avec aplomb : *"Tu joues à la PS4 depuis des années, tu dois être prête pour les compétitions d’e-sport maintenant ?"*
 
 Lorsqu'il s'agit de musique, cette double pression de la performance - au sens de résultats et au sens de spectacle - semble inévitable. Elle s’infiltre subtilement, transformant ce qui devrait être un espace de liberté en un autre terrain de "travail", une extension des efforts d'amélioration continue que l'on réserve d'ordinaire à la sphère professionnelle. Alors que nos vies s’organisent déjà autour de la quête d’un "toujours mieux", nos loisirs ne devraient-ils pas rester des sanctuaires, échappant à la pression incessante de l’excellence ?
 

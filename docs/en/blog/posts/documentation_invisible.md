@@ -18,7 +18,7 @@ Imagine unboxing your new, state-of-the-art air fryer, ready to revolutionise yo
 
 ## The Technical Writer's Invisible Work
 
-In the buzzing hive of software development, documentation occupies a paradoxical space. Though recognised as indispensable, it is often relegated to the background in practice. "We'll document it later," "The priority is delivering the product" – these are phrases every technical writer knows well, like a well-worn refrain.
+In the buzzing hive of software development, documentation occupies a paradoxical space. Though recognised as indispensable, it is often relegated to the background in practice. *"We'll document it later," "The priority is delivering the product"* – these are phrases every technical writer knows well, like a well-worn refrain.
 
 Yet, there are other inspiring models. In the aerospace industry, each aircraft is delivered with thousands of pages of meticulous documentation that does more than explain – it ensures safety and efficiency. This is not a luxury; in this sector, documentation is as vital as the engines.
 

@@ -9,11 +9,11 @@ categories:
   - Random Thoughts  
 ---
 
-# Breaking Free from Performance: An Ode to the Musical Plateau
+# Musical Interlude: In Praise of the Plateau
 
-## Please Let My Hobby Be 🐝 
+## Music Away from the Spotlight 🎸
 
-“You’ve been playing guitar for ages; you must be a virtuoso by now! Play us something?” How many times have I heard these words, laden with expectations? In our society, hungry for performance, music seems bound by a double imperative: technical excellence and spectacle. In French, “performance” resonates with reaching a high standard, whereas in English, it gravitates towards the stage and the show. And here I am, caught between these two interpretations – perhaps fittingly, as it seems we expect musicians, even amateurs, to be flawlessly skilled and ever ready to perform.
+*“You’ve been playing guitar for ages; you must be a virtuoso by now! Play us something?”* How many times have I heard these words, laden with expectations? In our society, hungry for performance, music seems bound by a double imperative: technical excellence and spectacle. In French, “performance” resonates with reaching a high standard, whereas in English, it gravitates towards the stage and the show. And here I am, caught between these two interpretations – perhaps fittingly, as it seems we expect musicians, even amateurs, to be flawlessly skilled and ever ready to perform.
 
 But isn’t there another way to live through music, a more intimate, freer way?
 
@@ -21,9 +21,9 @@ But isn’t there another way to live through music, a more intimate, freer way?
 
 ![Enjoying your hobby](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09c917d0-f5ca-4b29-a706-5e3ed5489e13/digqw14-428e6670-9b8b-4f15-93f2-2e5130ffdbbc.jpg/v1/fill/w_900,h_957,q_75,strp/guitar_and_plants_doodle_by_li__lon_digqw14-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTU3IiwicGF0aCI6IlwvZlwvMDljOTE3ZDAtZjVjYS00YjI5LWE3MDYtNWUzZWQ1NDg5ZTEzXC9kaWdxdzE0LTQyOGU2NjcwLTliOGItNGYxNS05M2YyLTJlNTEzMGZmZGJiYy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.v3SNDX9lYvaUqlQpXwwdt0Zu_H8f7IgPrGNxCvmg_vs)
 
-## The Double Tyranny of Performance
+## The Double Expectation of Performance
 
-Imagine this same logic of performance applied to other passions. Would we say to a friend who devours books, “You’ve been reading for so long; you must have written a novel by now?” Or to someone who loves drawing, “With all that time spent, when’s your exhibition going to be ready?” True, these might not seem so strange, and could well be said as banter. But let’s try with a bit more conviction: “You’ve been playing on the PS4 for years, so you’re ready for e-sports competitions, right?”
+Imagine this same logic of performance applied to other passions. Would we say to a friend who devours books, *“You’ve been reading for so long; you must have written a novel by now?”* Or to someone who loves drawing, *“With all that time spent, when’s your exhibition going to be ready?”* True, these might not seem so strange, and could well be said as banter. But let’s try with a bit more conviction: *“You’ve been playing on the PS4 for years, so you’re ready for e-sports competitions, right?”*
 
 When it comes to music, this double pressure of performance – both as achievement and as spectacle – seems inescapable. It seeps in, turning what should be a space of freedom into another field of “work,” yet another extension of the continuous improvement efforts we typically reserve for our professional lives. While our days are already shaped around the pursuit of “better and better,” shouldn’t our hobbies remain sanctuaries, free from this relentless pressure to excel?
 

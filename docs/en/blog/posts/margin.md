@@ -16,6 +16,8 @@ This connection between the margin and creative freedom follows me now in my wor
 
 <!-- more -->
 
+![Doodling in the margin](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09c917d0-f5ca-4b29-a706-5e3ed5489e13/dihexpy-a55f4fc7-5bef-467e-ab31-215bc65f2b3a.jpg/v1/fit/w_828,h_972,q_70,strp/notebook_doodle_imagination_tree__by_li__lon_dihexpy-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTUwMiIsInBhdGgiOiJcL2ZcLzA5YzkxN2QwLWY1Y2EtNGIyOS1hNzA2LTVlM2VkNTQ4OWUxM1wvZGloZXhweS1hNTVmNGZjNy01YmVmLTQ2N2UtYWIzMS0yMTViYzY1ZjJiM2EuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.0nKNMwSUhXtHaIBOwPRTjWy9Ug2B6IDEav0im9o1uY0)
+
 ## The Margin as a Creative Space: Beyond Boundaries
 
 But why this fondness for the margins, this attraction to what lies neither here nor there? Perhaps it's because, in the margin, one can sidestep the constraints of the central framework. What slips into these spaces is less formal, freer. And this isn't limited to the pages of a notebook – the margin is an idea, a mental space where one dares to imagine, to dream, ideas that might hesitate in the limelight.
@@ -28,11 +30,13 @@ But there's more: the margin is also a space for wandering, for retreat. In our 
 
 Following these less travelled paths, away from well-worn routes, often brings fresh perspectives. In much the same way, documentation, existing in the margin of the product, maintains a subtle distance. It doesn't share the same stakes, it has its own challenges, its own detours. There's no glory or fanfare here, just a quiet place – and yet an essential one.
 
+<!--
 ## Searching for the Margins of Thought
 
 Margins are also philosophical spaces. For Derrida, they're places where rigid notions dissolve, where concepts themselves deconstruct and reinvent. For him, the margin is not a mere add-on; it is its own space, hiding what cannot be expressed elsewhere, an opening to what is often overlooked, like a breath just beneath the surface.
 
 Perhaps this, ultimately, is what draws me to the idea of the margin: it's a place "beside" yet no less deep. A place where the mind loosens, and ideas are left to grow and intermingle. Margins are testing grounds, places for reflection.
+-->
 
 ## Why Margins Matter
 

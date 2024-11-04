@@ -1,4 +1,5 @@
 ---
+draft: true
 date: 2024-11-01
 authors:
     - Lilon
@@ -16,6 +17,8 @@ categories:
 
 <!-- more -->
 
+![筆記邊緣素描](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09c917d0-f5ca-4b29-a706-5e3ed5489e13/dihexpy-a55f4fc7-5bef-467e-ab31-215bc65f2b3a.jpg/v1/fit/w_828,h_972,q_70,strp/notebook_doodle_imagination_tree__by_li__lon_dihexpy-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTUwMiIsInBhdGgiOiJcL2ZcLzA5YzkxN2QwLWY1Y2EtNGIyOS1hNzA2LTVlM2VkNTQ4OWUxM1wvZGloZXhweS1hNTVmNGZjNy01YmVmLTQ2N2UtYWIzMS0yMTViYzY1ZjJiM2EuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.0nKNMwSUhXtHaIBOwPRTjWy9Ug2B6IDEav0im9o1uY0)
+
 ## 邊緣作為創作空間：超越框架
 
 為何我對邊緣情有獨鍾，對那些既不屬於內也不屬於外的空間充滿興趣？或許是因為在邊緣處，我們可以逃避中心框架的約束。在這裡出現的內容較為非正式，更加自由。而這不僅限於筆記本的頁面——邊緣是一個概念，是一個心靈空間，在這裡，人們敢於去想像、去做夢，萌生出那些在舞台中央顯得膽怯的想法。
@@ -28,11 +31,13 @@ categories:
 
 走上這些不常見的小路，遠離常規道路，往往能帶來新的視角。同樣地，文件作為產品的邊緣部分，保持著一種微妙的距離。它不具備相同的利害關係，它有自己的挑戰和迂迴之處。在這裡，沒有榮耀與聚光燈，卻是一個安靜而至關重要的所在。
 
+<!--
 ## 思維邊緣的探索
 
 邊緣也是哲學性的空間。對 Derrida 來說，邊緣是僵化概念融化的地方，是概念自我解構並重塑的空間。在他看來，邊緣不僅僅是一個附加，它是獨立存在的，藏匿著其他地方無法表達的內容，提供了通向被忽視之物的開口，像是一股暗流在表面下湧動。
 
 或許這才是最吸引我之處：邊緣是個“旁邊”的地方，但卻不失深度。這裡是思想釋放之地，讓思緒自由地成長、交融。邊緣是試驗和反思的場域。
+-->
 
 ## 邊緣為何重要
 
