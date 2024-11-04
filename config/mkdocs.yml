@@ -81,19 +81,18 @@ extra:
 #      link: https://www.linkedin.com/in/.../
   alternate:
     - name: English
-      link: /en/
+      link: /technical-margins/en/
       lang: en
     - name: Français
-      link: /fr/
+      link: /technical-margins/fr/
       lang: fr
     - name: 中文
-      link: /zh/
+      link: /technical-margins/zh/
       lang: zh
-# Google Analytics: to add Google Analytics to your site, you need to add the tracking ID to the extra section. You can find the tracking ID in your Google Analytics account. The tracking ID is in the form of G-XXXXXXXXX.
-#  analytics:
-#    provider: google
-#    property: G-...
-# Definig macros
+  analytics:
+    provider: google
+    property: G-9QESW2GJNK
+# Defining macros
   author:
     name: Lilon
   blog:
