@@ -6,12 +6,15 @@ icon: material/account-circle-outline
 
 # About me
 
-Hello and welcome! I'm Lise P., a technical writer documenting business management software for a French company. Beyond simply conveying technical information, what drives me is the search for innovative ways to make information more accessible and intuitive for users.
+Hello! If you've found your way to this page, perhaps a little introduction is in order. I'm a technical writer at a French company, documenting professional software for logistics management. My work primarily involves making complex information clearer and more accessible for users of our solutions. Beyond simply delivering technical content, I'm driven by a search for innovative ways to make information easier to access, intuitive, and simple to grasp.
 
 <figure markdown="span">
     ![Avatar](https://gravatar.com/userimage/242531075/94f7fa36d4b7ca1b0baa7de927318925.jpeg?size=200){ class="image_cropper" }
 </figure>
 
-My journey has been somewhat unconventional – like that of many technical writers. I began in the academic world, studying Asian languages and cultures and working in literary translation, before finding my path in technical documentation. This shift allowed me to bring together my interest in technology with my linguistic skills. Today, this dual expertise informs my approach to documentation, blending methodological precision with a touch of creativity.
+My background is somewhat unconventional – but in technical writing, isn't that often the case? My path began with a focus on languages, Asian cultures, and literary translation, which led me from academic research to technical documentation. This shift allowed me to combine my interest in technology with my linguistic skills. Today, this dual expertise shapes my approach to documentation, blending methodological rigour with a touch of creativity.
 
-With *Technical Margins*, I share my reflections on the edges of documentation, where the formal gives way to a freer space for thought and exploration. A style quite different from my technical documentation, I assure you. Here, I uncover ideas, inspirations, and paths less travelled. Please feel free to reach out and join the conversation, for in the margins, there is always room for new discoveries.
+With *Technical Margins*, I take on a few technical explorations and share reflections on the margins of documentation, where formality gives way to thought and freer writing. A style quite distinct from my technical documentation, I assure you! In these margins, I explore ideas, inspirations, and paths a little off the beaten track. Feel free to join the conversation if you're so inclined – the margins are a space for shared discoveries.
+
+!!! note "Disclaimer"
+    *This blog has no affiliation with my company. The views expressed here are solely my own.*
