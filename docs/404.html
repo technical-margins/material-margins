@@ -6,68 +6,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noai,noimageai,noindex,noarchive,nofollow" />
-    <title>Welcome to Technical Margins - Technical Margins</title>
-    <link rel="stylesheet" href="/technical-margins/en/assets/stylesheets/main.8c3ca2c6.min.css">
-    <link rel="stylesheet" href="/technical-margins/en/assets/stylesheets/palette.06af60db.min.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback">
     <style>
-        :root {
-            --md-admonition-icon--example: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 2h16a2 2 0 0 1 2 2v12c0 1.11-.89 2-2 2h-4l-4 4-4-4H4a2 2 0 0 1-2-2V4c0-1.1.9-2 2-2m0 2v12h4.83L12 19.17 15.17 16H20V4zm11.84 4.2-1.01 1.01-2.07-2.03 1.01-1.02c.2-.21.54-.22.78 0l1.29 1.25c.21.21.22.55 0 .79M8 11.91l4.17-4.19 2.07 2.08-4.16 4.2H8z"/></svg>');
-            --md-admonition-icon--note: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16 12V4h1V2H7v2h1v8l-2 2v2h5.2v6h1.6v-6H18v-2zm-7.2 2 1.2-1.2V4h4v8.8l1.2 1.2z"/></svg>');
-            --md-admonition-icon--abstract: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 9a3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3m0-4.5c5 0 9.27 3.11 11 7.5-1.73 4.39-6 7.5-11 7.5S2.73 16.39 1 12c1.73-4.39 6-7.5 11-7.5M3.18 12a9.821 9.821 0 0 0 17.64 0 9.821 9.821 0 0 0-17.64 0"/></svg>');
-            --md-admonition-icon--info: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 9h2V7h-2m1 13c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8m0-18A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2m-1 15h2v-6h-2z"/></svg>');
-            --md-admonition-icon--tip: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m8.58 17.25.92-3.89-3-2.58 3.95-.37L12 6.8l1.55 3.65 3.95.33-3 2.58.92 3.89L12 15.19zM12 2a10 10 0 0 1 10 10 10 10 0 0 1-10 10A10 10 0 0 1 2 12 10 10 0 0 1 12 2m0 2a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8"/></svg>');
-            --md-admonition-icon--success: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2m0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8m4.59-12.42L10 14.17l-2.59-2.58L6 13l4 4 8-8z"/></svg>');
-            --md-admonition-icon--question: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 18h2v-2h-2zm1-16A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2m0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8m0-14a4 4 0 0 0-4 4h2a2 2 0 0 1 2-2 2 2 0 0 1 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5a4 4 0 0 0-4-4"/></svg>');
-            --md-admonition-icon--warning: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 15h2v2h-2zm0-8h2v6h-2zm1-5C6.47 2 2 6.5 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2m0 18a8 8 0 0 1-8-8 8 8 0 0 1 8-8 8 8 0 0 1 8 8 8 8 0 0 1-8 8"/></svg>');
-            --md-admonition-icon--failure: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 20c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8m0-18C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2m2.59 6L12 10.59 9.41 8 8 9.41 10.59 12 8 14.59 9.41 16 12 13.41 14.59 16 16 14.59 13.41 12 16 9.41z"/></svg>');
-            --md-admonition-icon--danger: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 4c4.4 0 8 3.6 8 8s-3.6 8-8 8-8-3.6-8-8 3.6-8 8-8m0-2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2m3 15.2-1.8-3q-.6.3-1.2.3c-.6 0-.9-.1-1.2-.3-.5.9-1.2 2-1.8 3 .9.5 1.9.8 3 .8s2.1-.3 3-.8m0-10.4-1.8 3c.7.4 1.3 1.2 1.3 2.2H18c0-2.2-1.2-4.2-3-5.2M12 13c.6 0 1-.4 1-1s-.4-1-1-1-1 .4-1 1 .4 1 1 1m-6-1h3.5c0-.9.5-1.7 1.3-2.2-.5-.9-1.2-2-1.8-3-1.8 1-3 3-3 5.2"/></svg>');
-            --md-admonition-icon--bug: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 16H7v-1l1-1v-2.61c0-1.09.27-2.05.79-2.86C9.3 7.72 10.04 7.21 11 7v-.5a1 1 0 0 1 1-1 1 1 0 0 1 1 1V7c.96.21 1.7.72 2.21 1.53.52.81.79 1.77.79 2.86V14l1 1zm-3.5 1a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5zM12 2a10 10 0 0 1 10 10 10 10 0 0 1-10 10A10 10 0 0 1 2 12 10 10 0 0 1 12 2m0 2a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8"/></svg>');
-            --md-admonition-icon--quote: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a10 10 0 0 1 10 10 10 10 0 0 1-10 10A10 10 0 0 1 2 12 10 10 0 0 1 12 2m0 2a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8m-2 13h3l2-4V7H9v6h3z"/></svg>');
+        body {
+            background-color: #009799;
+            color:white;
+            font-family: 'Nunito';
+        }
+        h1 {
+            color:aliceblue;
+            font-family: 'Roboto Slab';
+        }
+        h2 {
+            color:aliceblue;
+            font-family: 'Roboto Slab';
         }
     </style>
-
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet"
-        href="https://fonts.googleapis.com/css?family=Nunito:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
-    <style>
-        :root {
-            --md-text-font: "Nunito";
-            --md-code-font: "Roboto Mono"
-        }
-    </style>
-    <link rel="stylesheet" href="/technical-margins/en/assets/stylesheets/extra.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css">
-    <script>__md_scope = new URL(".", location), __md_hash = e => [...e].reduce(((e, _) => (e << 5) - e + _.charCodeAt(0)), 0), __md_get = (e, _ = localStorage, t = __md_scope) => JSON.parse(_.getItem(t.pathname + "." + e)), __md_set = (e, _, t = localStorage, a = __md_scope) => { try { t.setItem(a.pathname + "." + e, JSON.stringify(_)) } catch (e) { } }</script>
-    <script
-        id="__analytics">function __md_analytics() { function e() { dataLayer.push(arguments) } window.dataLayer = window.dataLayer || [], e("js", new Date), e("config", "G-9QESW2GJNK"), document.addEventListener("DOMContentLoaded", (function () { document.forms.search && document.forms.search.query.addEventListener("blur", (function () { this.value && e("event", "search", { search_term: this.value }) })); document$.subscribe((function () { var t = document.forms.feedback; if (void 0 !== t) for (var a of t.querySelectorAll("[type=submit]")) a.addEventListener("click", (function (a) { a.preventDefault(); var n = document.location.pathname, d = this.getAttribute("data-md-value"); e("event", "feedback", { page: n, data: d }), t.firstElementChild.disabled = !0; var r = t.querySelector(".md-feedback__note [data-md-value='" + d + "']"); r && (r.hidden = !1) })), t.hidden = !1 })), location$.subscribe((function (t) { e("config", "G-9QESW2GJNK", { page_path: t.pathname }) })) })); var t = document.createElement("script"); t.async = !0, t.src = "https://www.googletagmanager.com/gtag/js?id=G-9QESW2GJNK", document.getElementById("__analytics").insertAdjacentElement("afterEnd", t) }</script>
-    <script>"undefined" != typeof __md_analytics && __md_analytics()</script>
+    <title>404 - Technical Margins</title>
 </head>
 
 <body>
     <h1>404</h1>
-    <details class="info">
-        <summary><img alt="🇬🇧" class="twemoji"
-                src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.0.3/assets/svg/1f1ec-1f1e7.svg"
-                title=":flag_gb:">&nbsp;&nbsp;The connection thread is broken</summary>
-        <p>It looks like this page got tangled in the web... Feel free to go back to the <a href="/technical-margins/index.html">homepage</a> or to <a
-                href="mailto:no-address@live.com?subject=Feedback%20Blog%20Margin%20Annotations"><u></u>reach out</u></a> if the error persists.</p>
-    </details>
-    <details class="info">
-        <summary><img alt="🇫🇷" class="twemoji"
-                src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.0.3/assets/svg/1f1eb-1f1f7.svg"
-                title=":flag_fr:">&nbsp;&nbsp;Cette page s'est faufilée ailleurs</summary>
-        <p>Cette page s'est perdue dans les fils de la toile... Vous pouvez retourner à la <a href="/technical-margins/index.html"></a>page d'accueil</a>, ou <a
-                href="mailto:no-address@live.com?subject=Feedback%20Blog%20Margin%20Annotations"><u></u>me contacter</u></a> si
-                l'erreur persiste.</p>
-    </details>
-    <script>
-        document.addEventListener("DOMContentLoaded", function () {
-            var sidebarElement = document.querySelector("nav.md-nav.md-nav--secondary");
-            if (sidebarElement) {
-                sidebarElement.style.display = "none";
-            }
-        });
-    </script>
+    <h2>🇬🇧&nbsp;The connection thread is broken&nbsp;🇺🇸</h2>
+    <p>It looks like this page got tangled in the web... Feel free to go back to the <a href="/technical-margins/index.html">homepage</a> or to <a href="mailto:no-address@live.com?subject=Feedback%20Technical%20Margins"><u></u>reach out</u></a> if the error persists.</p>
+    <h2>🇫🇷&nbsp;Cette page s'est faufilée ailleurs&nbsp;🇧🇪</h2>
+    <p>Cette page s'est perdue dans les fils de la toile... Vous pouvez retourner à la <a href="/technical-margins/index.html"></a>page d'accueil</a>, ou <a href="mailto:no-address@live.com?subject=Feedback%20Technical%20Margins"><u></u>me contacter</u></a> si l'erreur persiste.</p>
 </body>
 
 </html>
