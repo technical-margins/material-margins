@@ -17,7 +17,7 @@ validation:
 ################ Theme Configuration ################
 theme:
     name: material
-    favicon: images/favicon.png
+    favicon: assets/images/favicon.png
     custom_dir: '../../overrides/'
     palette:
         - scheme: margin
@@ -89,9 +89,9 @@ extra:
     - name: 中文
       link: /technical-margins/zh/
       lang: zh
-  analytics:
-    provider: google
-    property: G-9QESW2GJNK
+#  analytics:
+#    provider: google
+#    property: G-9QESW2GJNK
 # Defining macros
   author:
     name: Lilon
