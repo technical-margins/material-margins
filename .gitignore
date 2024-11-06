@@ -1,6 +1,5 @@
 /.venv
 /mkdocs.yml
 /generated/
-/.github/workflows/ci_bk.yml
-/.github/workflows/ci_ppl.yml
 /misc.html
+/.github/workflows/ci_*

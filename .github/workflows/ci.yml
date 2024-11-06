@@ -40,12 +40,9 @@ jobs:
           git fetch origin gh-pages || true
           git checkout -B gh-pages
           
-          # Clean directory except .git
-          find . -maxdepth 1 ! -name '.git' ! -name 'generated' -exec rm -rf {} +
-          
-          # Copy content and push
+          # Remove existing content and copy the new generated files
+          rm -rf *
           cp -r generated/* .
-          rm -rf generated
           
           git add .
           git commit -m "Deploy documentation"
