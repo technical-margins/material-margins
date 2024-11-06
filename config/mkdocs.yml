@@ -21,7 +21,7 @@ validation:
 ################ Theme Configuration ################
 theme:
     name: material
-#    favicon: [in main.html]
+    favicon: assets/images/favicon.ico
     custom_dir: '../../overrides/'
     palette:
         - scheme: margin
@@ -81,7 +81,7 @@ extra_javascript:
 extra:
   analytics:
     provider: google
-    property: !ENV GOOGLE_ANALYTICS_KEY
+    property: G-9QESW2GJNK
 #  social:
 #    - icon: fontawesome/brands/linkedin
 #      link: https://www.linkedin.com/in/.../
