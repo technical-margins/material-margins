@@ -2,6 +2,7 @@ name: ci
 on:
   push:
     branches:
+      - master 
       - main
 permissions:
   contents: write
@@ -9,46 +10,43 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-      - name: Build FR docs
-        uses: ./
-        with:
-          entrypoint: mkdocs
-          args: build --config-file=config/fr/mkdocs.yml
-      - name: Build EN docs
-        uses: ./
-        with:
-          entrypoint: mkdocs
-          args: build --config-file=config/en/mkdocs.yml
-      - name: Build ZH docs
-        uses: ./
-        with:
-          entrypoint: mkdocs
-          args: build --config-file=config/zh/mkdocs.yml 
-
-      - name: Copy redirect and 404 pages
+      - uses: actions/checkout@v4
+      - name: Configure Git Credentials
         run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - uses: actions/cache@v4
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install mkdocs-material mkdocs-glightbox mkdocs-macros-plugin     
+      - run: |
+          # First build all sites
+          mkdocs build --config-file config/fr/mkdocs.yml
+          mkdocs build --config-file config/en/mkdocs.yml
+          mkdocs build --config-file config/zh/mkdocs.yml
+          
+          # Copy global files
           sudo cp docs/index.html generated/
           sudo cp docs/404.html generated/
-
-      - uses: actions/setup-python@v4
-        with:
-          python-version: 3.12
-
-      - name: Deploy docs to gh-pages branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./generated
-
-      - uses: actions/cache@v2
-        with:
-          key: ${{ github.ref }}
-          path: .cache
-      - run: pip install mkdocs-material mkdocs-glightbox mkdocs-macros-plugin
-      - run: pip install mike --force-reinstall --verbose
-#      - run: mike deploy --push --update-aliases 1.0 latest --ignore
-#      - run: mkdocs gh-deploy --force
+          
+          # Prepare gh-pages branch
+          git fetch origin gh-pages || true
+          git checkout -B gh-pages
+          
+          # Clean directory except .git
+          find . -maxdepth 1 ! -name '.git' ! -name 'generated' -exec rm -rf {} +
+          
+          # Copy content and push
+          cp -r generated/* .
+          rm -rf generated
+          
+          git add .
+          git commit -m "Deploy documentation"
+          git push -f origin gh-pages
