@@ -13,7 +13,7 @@ categories:
 
 Why *Technical Margins*? Why not, one might say. This title felt natural. It's there, in the margin, that life slips in. When I think back to my school years, even through university, I see my notebooks, my loose sheets, marked with small sketches, scrawled along the edges, just outside the main content. Far from empty, these margins were lively spaces, uncultivated patches where ideas roamed freely, thoughts that spilled out, uninvited, from the official structure of lessons. For me, doodling in the margins was a way of listening, of musing – a way to let my thoughts wander and explore.
 
-This connection between the margin and creative freedom follows me now in my work as a technical writer. Documentation, a bit like those sketches of yore, often lives in the margin of the product. It's there when needed, off centre stage, sitting quietly in the background, ready to enrich the user experience. And although labelled as 'technical,' it retains within it a small margin of freedom, a secret corner where, despite everything, a hint of creativity sneaks in.
+This connection between the margin and creative freedom follows me now in my work as a technical writer. Documentation, a bit like those sketches of yore, often lives in the margin of the product. It's there when needed, off centre stage, sitting quietly in the background, ready to enrich the user experience. And although labelled as "technical", it retains within it a small margin of freedom, a secret corner where, despite everything, a hint of creativity sneaks in.
 
 <!-- more -->
 
@@ -27,7 +27,7 @@ Gérard Genette describes margins as zones neither fully inside nor outside the 
 
 ## Marginality and the Paths Less Travelled
 
-But there's more: the margin is also a space for wandering, for retreat. In our society, there are paths and people left on the margin – an expression evoking both exclusion and possibility. In the Chinese classic *Water Margin* 水滸傳, it's precisely these characters cast out by society who become the heroes, revealing in their 'marginal' lives a raw, unrefined truth about the world.
+But there's more: the margin is also a space for wandering, for retreat. In our society, there are paths and people left on the margin – an expression evoking both exclusion and possibility. In the Chinese classic *Water Margin* 水滸傳, it's precisely these characters cast out by society who become the heroes, revealing in their "marginal" lives a raw, unrefined truth about the world.
 
 Following these less travelled paths, away from well-worn routes, often brings fresh perspectives. In much the same way, documentation, existing in the margin of the product, maintains a subtle distance. It doesn't share the same stakes; it has its own challenges, its own detours. There's no glory or fanfare here, just a quiet place – and yet an essential one.
 

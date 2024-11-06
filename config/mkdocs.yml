@@ -1,8 +1,12 @@
-site_name: 'Technical Margins'
-site_author: Lilon
-use_directory_urls: false                   # true for web hosting? If true, the generated site will use directory style urls (foo/index.html) instead of single file urls (foo.html).
+################ Project information ################
 
-# Define logs to show during mkdocs serving or building
+site_name: 'Technical Margins'
+site_author: Lise
+
+################ Misc configuration ################
+use_directory_urls: true                  # No '.html' in generated site URLs.
+
+################ Validation (ogs to show during mkdocs serving or building) ################
 validation:
   nav:
     omitted_files: info
@@ -11,13 +15,13 @@ validation:
   links:
     not_found: warn
     anchors: info
-    absolute_links: ignore
+    absolute_links: info
     unrecognized_links: info
 
 ################ Theme Configuration ################
 theme:
     name: material
-    favicon: assets/images/favicon.png
+#    favicon: [in main.html]
     custom_dir: '../../overrides/'
     palette:
         - scheme: margin
@@ -57,7 +61,6 @@ theme:
     features:
         - navigation.footer
         - navigation.indexes        # Individual home pages (index.md) for each section.
-        - navigation.path           # Breadcrumb trail, not yet active, insiders only.
         - navigation.sections
         - navigation.tabs           # Navigation by section at the top, instead of a complete TOC on the left.
 #        - navigation.tabs.sticky   # So that navigation by section is always visible.
@@ -76,6 +79,9 @@ extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
 
 extra:
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
 #  social:
 #    - icon: fontawesome/brands/linkedin
 #      link: https://www.linkedin.com/in/.../
@@ -89,15 +95,12 @@ extra:
     - name: 中文
       link: /technical-margins/zh/
       lang: zh
-#  analytics:
-#    provider: google
-#    property: G-9QESW2GJNK
 # Defining macros
   author:
     name: Lilon
   blog:
     name: Technical Margins
-  generator: false                        # Remove the "Generated with MkDocs" message in the footer.
+  generator: true                        # Keep the "Generated with MkDocs" message in the footer.
 
 
 ################ Markdown Extensions ################
@@ -132,7 +135,6 @@ plugins:
       blog_toc: true
       post_date_format: full
       categories_toc: true
-
   - tags:
       enabled: true
 #      tags_file: tags.md

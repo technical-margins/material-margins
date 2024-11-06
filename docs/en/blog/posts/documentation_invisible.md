@@ -19,11 +19,11 @@ Imagine unboxing your new, state-of-the-art air fryer, ready to revolutionise yo
 
 ## The Technical Writer's Invisible Work
 
-In the buzzing hive of software development, documentation occupies a paradoxical place. Though recognised as indispensable, it is often relegated to the background in practice. *'We'll document it later,' 'The priority is delivering the product'* – these are phrases every technical writer knows well, like a well-worn refrain.
+In the buzzing hive of software development, documentation occupies a paradoxical place. Though recognised as indispensable, it is often relegated to the background in practice. *"We'll document it later", "The priority is delivering the product"* – these are phrases every technical writer knows well, like a well-worn refrain.
 
 Yet, there are other inspiring models. In the aerospace industry, each aircraft comes with thousands of pages of detailed documentation that doesn't just explain – but ensures safety and efficiency.
 
-But transposing this model to software development remains a challenge, especially in small and medium-sized enterprises. Although resources are often limited, commitment and rigour can make this work possible. It requires shifting the view of documentation as a 'secondary' task, often left to developers or project managers, as though writing were just an add-on or an optional 'extra.'  In many ways, this is like asking a pilot to write their own aircraft manual between flights – a situation that underscores the critical need for dedicated technical writing professionals.
+But transposing this model to software development remains a challenge, especially in small and medium-sized enterprises. Although resources are often limited, commitment and rigour can make this work possible. It requires shifting the view of documentation as a "secondary" task, often left to developers or project managers, as though writing were just an add-on or an optional "extra". In many ways, this is like asking a pilot to write their own aircraft manual between flights – a situation that underscores the critical need for dedicated technical writing professionals.
 
 ## From Complexity to Clarity: My Role as a Translator
 
@@ -35,7 +35,7 @@ This mission is a balancing act, a choreography where each interaction with tech
 
 ## Documentation: More Than Just a Guide to Customer Satisfaction
 
-*'The instructions are in Chinese, I don't understand how it works – a one-star rating because I can't give less.'* Such a comment, common on e-commerce sites, clearly shows how poor documentation can harm a product's reputation.
+*"The instructions are in Chinese, I don't understand how it works – a one-star rating because I can't give less."* Such a comment, common on e-commerce sites, clearly shows how poor documentation can harm a product's reputation.
 
 In professional software, documentation becomes much more than an instruction manual; it represents a direct, essential link between the user and the product. When well done, it frees up support teams by addressing simple queries, and it allows them to focus on more complex cases. It gives the user autonomy, a space where they can explore advanced features at their own pace and uncover the full richness of the product.
 
