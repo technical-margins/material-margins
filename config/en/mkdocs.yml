@@ -19,7 +19,7 @@ plugins:
 extra:
   analytics: 
     feedback:
-      title: What is your view on this?
+      title: What are your thoughts on this?
       ratings:
         - icon: material/thumb-up-outline
           name: This piece inspired me
