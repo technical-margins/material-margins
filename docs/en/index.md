@@ -4,6 +4,8 @@ tags:
  - Welcome
  - Introduction
 icon: material/home-circle-outline
+hide:
+  - feedback
 ---
 
 # **Welcome to *Technical Margins***

@@ -1,4 +1,6 @@
 ---
+hide:
+  - feedback
 tags:
     - 關於我
 icon: material/account-circle-outline

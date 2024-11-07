@@ -1,4 +1,6 @@
 ---
+hide:
+  - feedback
 tags:
     - À propos
 icon: material/account-circle-outline

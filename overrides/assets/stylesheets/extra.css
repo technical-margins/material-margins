@@ -319,3 +319,12 @@ details {
     width: 100%; /* Ensure it takes up the full width */
   }
 }
+
+/*Analytics feedback*/
+.md-feedback__title {
+  font-weight: 500;
+  color: var(--md-typeset-a-color);
+}
+.md-feedback__note {
+  color: var(--md-primary-fg-color--dark);
+}

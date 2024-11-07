@@ -15,6 +15,23 @@ plugins:
   - search:                                         
       lang: fr
 
+################ Analytics feedback localisation ################
+extra:
+  analytics: 
+    feedback:
+      title: Qu'en pensez-vous ?
+      ratings:
+        - icon: material/thumb-up-outline
+          name: Cet article est inspirant
+          data: 1
+          note: >-
+            Merci de votre retour
+        - icon: material/thumb-down-outline
+          name: Je vois les choses différemment
+          data: 0
+          note: >- 
+            Merci de votre retour
+
 ################ Nagivation ################
 nav:
   - Accueil:

@@ -13,7 +13,24 @@ theme:
 plugins:
   - blog
   - search:                                         
-      lang: zh-TW 
+      lang: zh-TW
+
+################ Analytics feedback localisation ################
+extra:
+  analytics: 
+    feedback:
+      title: 您怎麼想？
+      ratings:
+        - icon: material/thumb-up-outline
+          name: 這篇文給了我靈感
+          data: 1
+          note: >-
+            感謝您的回饋
+        - icon: material/thumb-down-outline
+          name: 我持不同觀點
+          data: 0
+          note: >- 
+            感謝您的回饋
 
 ################ Nagivation ################
 nav:

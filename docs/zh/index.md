@@ -1,4 +1,6 @@
 ---
+hide:
+  - feedback
 tags:
  - 首頁
  - 歡迎

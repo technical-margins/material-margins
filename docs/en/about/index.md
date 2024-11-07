@@ -2,6 +2,8 @@
 tags:
     - About me
 icon: material/account-circle-outline
+hide:
+  - feedback
 ---
 
 # About me

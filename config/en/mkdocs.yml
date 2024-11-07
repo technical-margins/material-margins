@@ -13,7 +13,24 @@ theme:
 plugins:
   - blog
   - search:                                         
-      lang: en 
+      lang: en
+
+################ Analytics feedback localisation ################
+extra:
+  analytics: 
+    feedback:
+      title: What is your view on this?
+      ratings:
+        - icon: material/thumb-up-outline
+          name: This piece inspired me
+          data: 1
+          note: >-
+            Thanks for your feedback
+        - icon: material/thumb-down-outline
+          name: I see things differently
+          data: 0
+          note: >- 
+            Thanks for your feedback
 
 ################ Nagivation ################
 nav:
