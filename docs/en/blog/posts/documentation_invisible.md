@@ -31,8 +31,6 @@ In this context, technical writing truly comes into its own. As a writer, my rol
 
 At the heart of my mission is collaboration with development teams. Together, we explore the product and its innovations. These exchanges aren't just about passing on information; they're lively dialogues where we dissect each feature and illuminate complexities. We sculpt the product, documentation included, so that through each sentence, the user can feel guided without being lost.
 
-This mission is a balancing act, a choreography where each interaction with technical teams becomes a dance of precision. Together, we shape the product so that each word, each sentence, naturally guides users through the application.
-
 ## Documentation: More Than Just a Guide to Customer Satisfaction
 
 *"The instructions are in Chinese, I don't understand how it works – a one-star rating because I can't give less."* Such a comment, common on e-commerce sites, clearly shows how poor documentation can harm a product's reputation.
@@ -47,7 +45,7 @@ Customer feedback consistently demonstrates this impact: when contextual help, s
 
 Recognition for technical writers is rare, but deeply rewarding. These moments arise where least expected: during an informal discussion where a user mentions the valuable help of a guide, in a conversation with sales teams who have gained confidence thanks to comprehensive documentation, or in the smile of a newcomer who, within a few pages, masters the system effortlessly.
 
-The benefits extend beyond the end users. Internal collaboration benefits too: a developer who shares insights on a feature, or a product team that plans from the start to incorporate our work. Such moments show that our contribution is not only useful but valued.
+And Internal collaboration benefits too: a developer who shares insights on a feature, or a product team that plans from the start to incorporate our work. Such moments show that our contribution is not only useful but valued.
 
 Seeing a complex product revealed, becoming accessible and intelligible, offers a unique satisfaction. Making the product more usable and accessible to each user means bringing technology to life – making it truly human.
 
