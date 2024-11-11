@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback">
+    <style>
+        body {
+            background-color: #009799;
+            color:aliceblue;
+            font-family: 'Roboto Slab';
+        }
+    </style>
+    <title>Redirection based on Browser Language</title>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // Récupération de la langue principale du navigateur
+            const language = navigator.language || navigator.userLanguage;
+
+            // Vérification de la langue et redirection appropriée
+            if (language.startsWith("fr")) {
+                window.location.href = "/material-margins/fr/index.html";
+            } else if (language.startsWith("zh")) {
+                window.location.href = "/material-margins/zh/index.html";
+            } else {
+                window.location.href = "/material-margins/en/index.html";
+            }
+        });
+    </script>
+</head>
+
+<body>
+<!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9QESW2GJNK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-9QESW2GJNK');
+    </script>
+    <p>Redirecting based on your browser's language settings...</p>
+</body>
+
+</html>
