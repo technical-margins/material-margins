@@ -87,13 +87,13 @@ extra:
 #      link: https://www.linkedin.com/in/.../
   alternate:
     - name: English
-      link: /technical-margins/en/
+      link: /material-margins/en/
       lang: en
     - name: Français
-      link: /technical-margins/fr/
+      link: /material-margins/fr/
       lang: fr
     - name: 中文
-      link: /technical-margins/zh/
+      link: /material-margins/zh/
       lang: zh
 # Defining macros
   author:
