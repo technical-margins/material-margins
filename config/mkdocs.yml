@@ -97,7 +97,7 @@ extra:
       lang: zh
 # Defining macros
   author:
-    name: Lilon
+    name: Lise
   blog:
     name: Technical Margins
   generator: true                        # Keep the "Generated with MkDocs" message in the footer.
