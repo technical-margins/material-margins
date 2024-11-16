@@ -1,8 +1,8 @@
 # Build stage: use MkDocs Material to generate the HTML documentation
-FROM squidfunk/mkdocs-material:9.5.38 AS build
+FROM squidfunk/mkdocs-material:9.5.44 AS build
 RUN pip install mkdocs-glightbox==0.3.7 mkdocs-static-i18n==1.2.0 mkdocs-macros-plugin==1.0.5
 
-LABEL maintainer="li-lon <no-address@live.com>"\
+LABEL maintainer="technical-margins <no-address@live.fr>"\
     stage="build" \
     description="Generates HTML from Markdown files using MkDocs with the Material theme."
 
