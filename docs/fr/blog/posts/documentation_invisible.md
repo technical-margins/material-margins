@@ -5,7 +5,9 @@ authors:
   - Lilon
 slug: documentation_invisible
 categories:
+  - Travail
   - Rédactech
+  - Documentation utilisateur
 ---
 
 # La documentation utilisateur : l'invisible qui rend visible

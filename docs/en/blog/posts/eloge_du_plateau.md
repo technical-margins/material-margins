@@ -4,10 +4,10 @@ comments: true
 authors:
     - Lilon
 slug: ode_to_the_plateau  
-categories:  
-  - Music  
-  - Hobbies  
+categories:
   - Random Thoughts  
+  - Music  
+  - Hobbies 
 ---
 
 # Musical Interlude: In Praise of the Plateau

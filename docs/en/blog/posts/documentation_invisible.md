@@ -4,7 +4,9 @@ comments: true
 authors:
     - Lilon
 categories:
+  - Work
   - TechWriting
+  - User Documentation
 ---
 
 # User Documentation: Making the Invisible Visible

@@ -5,9 +5,9 @@ authors:
     - Lilon
 slug: ode_to_the_plateau
 categories:
+  - Pensées en vrac
   - Musique
   - Hobby
-  - Pensées en vrac
 ---
 
 # Aparté musical : éloge du plateau
