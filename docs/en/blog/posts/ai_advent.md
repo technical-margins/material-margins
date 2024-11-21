@@ -14,6 +14,8 @@ categories:
 
 It's funny how the biggest transformations often begin with a simple *"could you just...?"*. On an otherwise ordinary morning, that seemingly innocuous phrase completely reshaped my approach to work – and even made me rethink my career as a technical writer.
 
+<!-- more -->
+
 ## Diving into chaos
 
 Early 2023. I'm handed the task of harmonising the translations of a professional software tool. The idea is to *“just”* review what hasn't been translated and standardise the rest. At first glance, it seems straightforward. I'm not expected to overhaul everything, just adjust, complete, and align the content. A minor task, no harder than rearranging a few books on a shelf.
