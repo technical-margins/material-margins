@@ -84,10 +84,6 @@ ul ul ul {
   list-style: none !important;
 }
 
-.red {
-  color: #e3003b;
-}
-
 /* Light color scheme */
 [data-md-color-scheme="margin"] {
     --md-typeset-a-color:         #009799; /* 02ee78 */
@@ -130,33 +126,17 @@ ul ul ul {
       background-image: linear-gradient(#005b6c, hsl(223.64deg 15.49% 13.92%));
   }
 }
-  
+
+/*
 :root {
-/*    --md-primary-fg-color:        #3984c4;
+    --md-primary-fg-color:        #3984c4;
     --md-primary-fg-color--light: #449eea;
     --md-primary-fg-color--dark:  #235278; */
-      --md-admonition-icon--image: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V5h14m0-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2m-5.04 9.29-2.75 3.54-1.96-2.36L6.5 17h11l-3.54-4.71Z"/></svg>')
-    }
-    .md-typeset .admonition.image,
-    .md-typeset details.image {
-      border-color: #009674;
-    }
-    .md-typeset .image > .admonition-title,
-    .md-typeset .image > summary {
-      background-color: #83ffe23f;
-    }
-    .md-typeset .image > .admonition-title::before,
-    .md-typeset .image > summary::before {
-      background-color: #009674;
-      -webkit-mask-image: var(--md-admonition-icon--image);
-              mask-image: var(--md-admonition-icon--image);
-    }
 
 /* Modification de la couleur et forme des Notes */
 .md-typeset .admonition,
 .md-typeset details {
-  border-width: 0;
-  border-left-width: 4px;
+  border-width: 1px;
 }
 
 .md-typeset .admonition.note,
@@ -288,7 +268,7 @@ ul ul ul {
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
 
-/*-Hauteur logo ALL ROADS-*/
+/*Hauteur logo */
 .md-header__button.md-logo img {
   height: 45px;
   padding-left: 5px;
