@@ -8,7 +8,7 @@ icon: material/account-circle-outline
 
 # À propos
 
-Bonjour ! Si vous êtes arrivé sur cette page, c'est probablement qu'une petite présentation s'impose. Rédactrice technique dans une entreprise française, je documente principalement des logiciels professionnels pour la gestion logistique. Mon travail consiste surtout à rendre des informations complexes plus claires et accessibles aux utilisateurs de nos solutions. Au-delà de la simple transmission de contenus techniques, je suis animée par la recherche de méthodes innovantes pour rendre l'information plus accessible, intuitive et facile à appréhender.
+Bonjour ! Si vous êtes arrivé sur cette page, c'est probablement qu'une petite présentation s'impose. Rédactrice technique dans une entreprise française, je documente principalement des solutions logicielles destinées aux entreprises. Mon travail consiste surtout à rendre des informations complexes plus claires et accessibles à nos utilisateurs. Au-delà de la simple transmission de contenus techniques, je suis animée par la recherche de méthodes innovantes pour rendre l'information plus accessible, intuitive et facile à appréhender.
 
 <figure markdown="span">
     ![Avatar](https://gravatar.com/userimage/242531075/94f7fa36d4b7ca1b0baa7de927318925.jpeg?size=200){ class="image_cropper" }

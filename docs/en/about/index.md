@@ -8,7 +8,7 @@ hide:
 
 # About me
 
-Hello! If you've found your way to this page, perhaps a little introduction is in order. I'm a technical writer at a French company, documenting professional software for logistics management. My work primarily involves making complex information clearer and more accessible for users of our solutions. Beyond simply delivering technical content, I'm driven to find innovative ways to make information more user-friendly, easier to reach, and easier to grasp.
+Hello! If you've found your way to this page, perhaps a little introduction is in order. I'm a technical writer at a French company, creating documentation for business software solutions. My work primarily involves making complex information clearer and more accessible for our users. Beyond simply delivering technical content, I'm driven to find innovative ways to make information more user-friendly, easier to understand, and more readily available.
 
 <figure markdown="span">
     ![Avatar](https://gravatar.com/userimage/242531075/94f7fa36d4b7ca1b0baa7de927318925.jpeg?size=200){ class="image_cropper" }
