@@ -1,5 +1,5 @@
 ---
-date: 2024-11-21
+date: 2024-11-23
 comments: true
 authors:
   - Lilon
@@ -18,25 +18,23 @@ It's funny how the biggest transformations often begin with a simple *"could you
 
 ## Lost in Translation
 
-Early 2023. I'm handed the task of harmonising the translations of a professional software tool. The idea is to *"just"* review what hasn't been translated and standardise the rest. At first glance, it seems straightforward. I'm not expected to overhaul everything, just adjust, complete, and align the content. A minor task, no harder than rearranging a few books on a shelf.
+Early 2023. I'm working on a task involving multilingual content standardisation within a technical project. The idea is to *"just"* review what hasn't been translated and harmonise the rest. At first glance, it seems straightforward. I'm not supposed to overhaul everything, just adjust, align, and complete. A minor task, no harder than rearranging a few books on a shelf.
 
-The reality? A raw, unformatted file with no context. A linguistic patchwork where French and English mingle like characters in an experimental novel – occasionally coherent, often inconsistent, and sometimes outright surreal. Some sections resemble the output of an early-2000s machine translator. Even words in my native language baffle me.
+The reality? A raw file with no context. A patchwork where languages mingle like characters in an experimental novel – occasionally coherent, often inconsistent, and sometimes outright surreal.
 
-Doubt creeps in. *Why me?* My dual role as a technical writer and linguist makes me the logical choice. And there's precedent – that internship where I meticulously dissected technical translations, armed with patience and precision. But this time is different. No specific training, no domain expertise, just a mountain of text as welcoming as random error messages. Not to mention that, naturally, the ambitious deadline elegantly overlaps with my regular workload.
+Doubt creeps in. *Why me?* My dual role as a technical writer and linguist makes me the logical choice. And there's precedent – an internship where I meticulously dissected technical translations, armed with patience and precision. But this time is different. No specific training, no domain expertise, just a mountain of text as welcoming as random error messages.
 
-For the first few days, I stick to the classic approach: methodically, line by line, glossary in hand. But without context, each field feels like solving an equation with multiple variables. Is this the right term? Will this translation create inconsistencies elsewhere in the software? This mass of text challenges both my patience and practicality. It's not technical writing, barely translation – just repetitive, tedious, frustrating labour. And I catch myself thinking: *A robot could do this just as well.*
+For the first few days, I stick to the classic approach: methodically, line by line, glossary in hand. But without context, it feels like solving an equation with multiple variables. Is this the right term? Will this translation create inconsistencies elsewhere? This mass of text challenges both my patience and practicality. It's not writing, barely translation – just repetitive, tedious labour. And I catch myself thinking: *A robot could do this just as well.*
 
 ## A Surprising Ally
 
-The turning point came during a routine progress update. Discussing my struggles with the manager who'd assigned me this task, his reply caught me off guard: *"Why not ask ChatGPT to translate it for you?"* A suggestion tossed out almost offhandedly, yet absolutely serious. He genuinely saw this as a potential solution.
+The turning point came during an ordinary conversation when someone casually, yet seriously, suggested: *"Why not ask ChatGPT to translate it for you?"* I was sceptical. *What?* The latest chatbot fad? To me, it was a gimmick, a fun tool, but surely not suitable for this task. Still, I had nothing to lose.
 
-I was sceptical. *What?* The latest chatbot fad? To me, it was a gimmick, a fun tool, but surely not suitable for professional work. Still, I had nothing to lose.
+With due approval, I began with simple tests, asking the AI to translate a few lines. The results? Mixed. Some phrases were spot-on, others completely off base. As for harmonisation, the chatbot naturally didn't grasp what to keep or rephrase. Clearly, it wasn't the ideal assistant I'd hoped for. Yet, something struck me: it wasn't perfect, but it was a starting point. And an idea started to take root.
 
-I began with simple tests, asking it to translate a few lines, then longer extracts. The results? Mixed. Some phrases were spot-on, others entirely off base. As for harmonisation, the chatbot naturally didn't grasp what to keep or rephrase. Clearly, it wasn't the ideal assistant I'd hoped for. Yet, something struck me: it wasn't perfect, but it was a starting point. And an idea started to take root.
+ChatGPT wouldn't be my miracle translator, but why not use it to automate the most boring steps? What I lacked was an algorithm – and the means to apply it. Then, suddenly, I found myself typing: *"Could you code that for me?"*
 
-ChatGPT wouldn't be my miracle translator, but why not use it to automate the most laborious steps? Identifying poorly translated fields, flagging those to standardise... What I lacked was an algorithm – and the means to apply it. Then, suddenly, I found myself typing: *"Could you code that for me?"*
-
-I knew exactly what I needed: a script to scan the file, identify French text, compare it against our glossary, and suggest translations using DeepL's API. The fact that my coding experience was limited didn't matter – I could see the solution clearly in my mind.
+I knew exactly what I needed: a script to scan the file and handle repetitive tasks more efficiently. The fact that my coding experience was more than limited didn't matter – I could see the solution clearly in my mind.
 
 ChatGPT's first attempts were promising but flawed. Between technical errors and concepts I needed to grasp, I spent my weekends diving into forums, learning programming basics, and refining my prompts. Each failure taught me something new, and gradually, like a photo developing in a darkroom, the script took shape. It wasn't a masterpiece, but it did exactly what I needed.
 
@@ -44,19 +42,19 @@ ChatGPT's first attempts were promising but flawed. Between technical errors and
 
 ## Efficiency Unlocked
 
-*And that's how the magic happened.* A mountain of work shrinks to the size of a manageable dune. My script – born from this unexpected collaboration with AI – transforms days of repetitive labour into a task that runs in hours. I find myself with time again, and with it, a revelation: *if this works for translations, what else can it do?*
+*And that's how the magic happened.* A mountain shrinks to the size of a manageable dune. My script – born from this unexpected collaboration with AI – transforms days of repetitive labour into a task that runs in hours. I find myself with time again, and with it, a revelation: *if this works for translations, what else can it do?*
 
-Experimentation became second nature. AI evolved from being a simple translation assistant to something more versatile. Now, it's no longer just a tool for saving time; it's an instrument for amplifying what I can do. Every new use sparks ideas for others.
+Experimentation became second nature. AI evolved from being a simple translation assistant but an instrument for amplifying what I can do. Every new use sparks ideas for others.
 
-The real change isn't in the newfound efficiency – it's in knowing I pushed my boundaries. Programming once felt like foreign territory, something other people did. Now I'm devising automation solutions and imagining workflows that are more efficient, more creative. It feels like I've unlocked a new dimension of my job.
+The real change isn't in the newfound efficiency – it's in knowing I pushed my boundaries. Programming once felt like foreign territory, something only others did. Now I'm devising automation solutions and imagining more efficient workflows. It feels as though I've opened a window into an uncharted dimension.
 
 ## New Horizons
 
-This experience taught me something valuable about working with language models like GPT: it's not about delegating but about dialogue. You have to ask the right questions, interpret the answers, refine the outputs. It's a back-and-forth process that balances clarity with experimentation.
+This experience taught me something valuable about working with language models like GPT: it's not about delegating but about dialogue. You have to ask the right questions, interpret the answers, refine the outputs. It's a back-and-forth process that balances clarity with experimentation. The relationship evolves constantly. Every day brings a new use case to explore.
 
-The relationship evolves constantly. Every day brings a new challenge or use case to explore. My job hasn't become easier – it's shifted. Automating the repetitive tasks has cleared space for more complex challenges. That's rewarding, but not always straightforward.
+As a technical writer, my job hasn't become easier – it's shifted. Automating the repetitive tasks has cleared space for more complex challenges. That's rewarding, but not always straightforward.
 
-Of course, doubts linger. *What happens when the tools become better than good?* Could someone with more technical expertise automate the work I do? And when AI models grow more sophisticated, will there still be a need for technical writers? For now, understanding our products, our users and their needs keeps us relevant. But I'd be lying if I said the uncertainty isn't unsettling.
+Of course, doubts linger. *What happens when the tools become better than good?* When AI models grow more sophisticated, will there still be a need for technical writers? My understanding of the product and its users offers protection, yet wisps of uncertainty persist.
 
 That's the paradox of generative AI. It raises the bar. Every efficiency gain comes with new demands. The more we can do with AI, the more is expected of us.
 
@@ -66,8 +64,5 @@ Our profession is reinventing itself. In this shifting landscape, adaptability i
 
 So, when someone asks *"could you just...?"* next time, I'll be curious – wondering not just what's being asked of me, but what I might learn in the process.
 
-??? tip "ChatGPT's Take on This"
-
-    This story highlights the practical and sometimes surprising ways AI can complement human effort. It’s not about perfection or groundbreaking transformations but about finding ways to make tedious tasks more manageable. What stands out is how AI served as a collaborator, not a replacement—helping with repetitive work while still requiring human oversight and problem-solving.
-    
-    Ultimately, this story highlights that the real power of AI lies in its ability to assist and augment human work, not to solve everything independently. It’s not about grand revelations but about small, practical shifts that make a tangible difference in how challenges are approached.
+??? note "Note for clarity"
+    The views shared here reflect solely my personal experience and do not represent my employer or their practices in any way. 
