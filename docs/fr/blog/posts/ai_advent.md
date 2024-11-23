@@ -67,4 +67,4 @@ Mon métier évolue, s'enrichit de nouvelles dimensions. Dans ce paysage en muta
 Alors, la prochaine fois que quelqu'un me diras *"pourrais-tu juste...?"*, je lèverai un sourcil en me demandant quelle nouvelle découverte m'attend au tournant.
 
 ??? note "Précision notable :)"
-    *Les idées partagées ici reflètent mon expérience personnelle sans être représentatives de mon employeur ou de ses pratiques.*
+    *Les idées partagées ici reflètent mon expérience personnelle et mon imagination, sans être représentatives de mon employeur ou de ses pratiques.*
