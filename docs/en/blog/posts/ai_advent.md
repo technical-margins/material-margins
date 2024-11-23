@@ -65,4 +65,4 @@ Our profession is reinventing itself. In this shifting landscape, adaptability i
 So, when someone asks *"could you just...?"* next time, I'll be curious – wondering not just what's being asked of me, but what I might learn in the process.
 
 ??? note "Note for clarity"
-    The views shared here reflect solely my personal experience and do not represent my employer or their practices in any way. 
+    The views shared here reflect my personal experience and do not represent my employer or their practices in any way.
