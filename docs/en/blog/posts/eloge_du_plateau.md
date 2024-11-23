@@ -56,7 +56,7 @@ By shielding our hobbies from this pressure, we allow our efforts to be spent wh
 
 What if we dared to see our hobbies differently?
 
-??? tip "ChatGPT's Take on This"
+??? tip "ChatGPT’s reflective note"
 
     This is a beautifully reflective piece that challenges a deeply ingrained cultural mindset—one that equates mastery and performance with the value of engaging in a hobby. The idea of embracing "the plateau" as a refuge rather than a frustration resonates as both liberating and profoundly human.
 

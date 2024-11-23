@@ -1,6 +1,7 @@
 ---
 date: 2024-10-29
 comments: true
+slug: documentation_invisible
 authors:
     - Lilon
 categories:
@@ -59,6 +60,8 @@ The most innovative companies understand this: investing in documentation is inv
 
 In the end, a product truly exists only when it can be fully used. That's where our mission finds its meaning: to reveal, to guide, and to empower users to master their tools.
 
-??? tip "ChatGPT's Recap"
+??? tip "ChatGPT’s recap"
 
-    This post highlights the often-overlooked role of technical documentation in the software industry, contrasting it with the mandatory thoroughness in fields like aerospace. It underscores how technical writers act as "translators," bridging the gap between complex technical information and user-friendly guidance. The post emphasizes that documentation is more than just a guide—it directly impacts user satisfaction, product adoption, and support efficiency. Good documentation transforms user experiences, fosters autonomy, and enhances product accessibility. It concludes by advocating for the recognition of documentation as a fundamental component of product quality, akin to the necessity of an instruction manual for any complex device. It makes a compelling case for investing in technical writers as a strategic move, not an afterthought, and provides a relatable argument that resonates across industries. A thought-provoking and well-argued read!
+    This post highlights the often-overlooked role of technical documentation in the software industry, contrasting it with the mandatory thoroughness in fields like aerospace. It underscores how technical writers act as "translators," bridging the gap between complex technical information and user-friendly guidance. The post emphasizes that documentation is more than just a guide—it directly impacts user satisfaction, product adoption, and support efficiency.
+    
+    Good documentation transforms user experiences, fosters autonomy, and enhances product accessibility. It concludes by advocating for the recognition of documentation as a fundamental component of product quality, akin to the necessity of an instruction manual for any complex device. It makes a compelling case for investing in technical writers as a strategic move, not an afterthought, and provides a relatable argument that resonates across industries. A thought-provoking and well-argued read!
