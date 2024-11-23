@@ -28,7 +28,7 @@ For the first few days, I stick to the classic approach: methodically, line by l
 
 ## A Surprising Ally
 
-The turning point came during a routine progress update. Discussing my struggles with the manager who'd assigned me this task, his reply caught me off guard: *"Why not ask ChatGPT to translate it for you?"* A suggestion tossed out almost offhandedly, yet entirely serious. He genuinely saw this as a potential solution.
+The turning point came during a routine progress update. Discussing my struggles with the manager who'd assigned me this task, his reply caught me off guard: *"Why not ask ChatGPT to translate it for you?"* A suggestion tossed out almost offhandedly, yet absolutely serious. He genuinely saw this as a potential solution.
 
 I was sceptical. *What?* The latest chatbot fad? To me, it was a gimmick, a fun tool, but surely not suitable for professional work. Still, I had nothing to lose.
 
@@ -44,11 +44,11 @@ ChatGPT's first attempts were promising but flawed. Between technical errors and
 
 ## Efficiency Unlocked
 
-*And then, the magic happens.* A mountain of work shrinks to the size of a manageable dune. My script – born from this unexpected collaboration with AI – transforms days of repetitive labour into a task that runs in hours. I find myself with time again, and with it, a revelation: *if this works for translations, what else can it do?*
+*And that's how the magic happened.* A mountain of work shrinks to the size of a manageable dune. My script – born from this unexpected collaboration with AI – transforms days of repetitive labour into a task that runs in hours. I find myself with time again, and with it, a revelation: *if this works for translations, what else can it do?*
 
 Experimentation became second nature. AI evolved from being a simple translation assistant to something more versatile. Now, it's no longer just a tool for saving time; it's an instrument for amplifying what I can do. Every new use sparks ideas for others.
 
-But the real change isn't in the newfound efficiency – it's in knowing I pushed my boundaries. Programming once felt like foreign territory, something other people did. Now I'm devising automation solutions and imagining workflows that are more efficient, more creative. It feels like I've unlocked a new dimension of my job.
+The real change isn't in the newfound efficiency – it's in knowing I pushed my boundaries. Programming once felt like foreign territory, something other people did. Now I'm devising automation solutions and imagining workflows that are more efficient, more creative. It feels like I've unlocked a new dimension of my job.
 
 ## New Horizons
 
