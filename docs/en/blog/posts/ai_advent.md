@@ -44,7 +44,7 @@ ChatGPT's first attempts were promising but flawed. Between technical errors and
 
 *And that's how the magic happened.* A mountain shrinks to the size of a manageable dune. My script – born from this unexpected collaboration with AI – transforms days of repetitive labour into a task that runs in hours. I find myself with time again, and with it, a revelation: *if this works for translations, what else can it do?*
 
-Experimentation became second nature. AI evolved from being a simple translation assistant but an instrument for amplifying what I can do. Every new use sparks ideas for others.
+Experimentation became second nature. AI evolved from being a simple translation tool into an instrument for amplifying what I can do. Every new use sparks ideas for others.
 
 The real change isn't in the newfound efficiency – it's in knowing I pushed my boundaries. Programming once felt like foreign territory, something only others did. Now I'm devising automation solutions and imagining more efficient workflows. It feels as though I've opened a window into an uncharted dimension.
 
