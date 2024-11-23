@@ -5,9 +5,8 @@ authors:
   - Lilon
 slug: ai_advent
 categories:
-  - Travail
-  - Traduction
   - IA
+  - Rédactech
 ---
 
 # L'IA au travail : une révolution dans l'ordinaire

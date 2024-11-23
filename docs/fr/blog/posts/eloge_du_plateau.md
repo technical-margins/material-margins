@@ -6,8 +6,6 @@ authors:
 slug: ode_to_the_plateau
 categories:
   - Pensées en vrac
-  - Musique
-  - Hobby
 ---
 
 # Aparté musical : éloge du plateau

@@ -6,7 +6,6 @@ authors:
 slug: margin
 categories:
   - Pensées en vrac
-  - Marges
 ---
 
 # Marges techniques : une exploration de l'espace oublié

@@ -6,7 +6,6 @@ authors:
 slug: margin
 categories:
   - Random Thoughts  
-  - Margins  
 ---
 
 # Technical Margins: Exploring Forgotten Spaces

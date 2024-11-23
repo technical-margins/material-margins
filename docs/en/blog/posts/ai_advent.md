@@ -5,9 +5,8 @@ authors:
   - Lilon
 slug: ai_advent
 categories:
-  - Work
-  - Translation
   - AI
+  - TechWriting
 ---
 
 # AI at Work: a Revolution in the Mundane

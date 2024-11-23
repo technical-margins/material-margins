@@ -5,9 +5,8 @@ slug: documentation_invisible
 authors:
     - Lilon
 categories:
-  - Work
   - TechWriting
-  - User Documentation
+  - Documentation
 ---
 
 # User Documentation: Making the Invisible Visible

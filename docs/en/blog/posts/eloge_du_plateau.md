@@ -6,8 +6,6 @@ authors:
 slug: ode_to_the_plateau  
 categories:
   - Random Thoughts  
-  - Music  
-  - Hobbies 
 ---
 
 # Musical Interlude: In Praise of the Plateau
