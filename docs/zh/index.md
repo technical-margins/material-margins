@@ -3,8 +3,6 @@ hide:
   - feedback
 tags:
  - 首頁
- - 歡迎
- - 介紹
 icon: material/home-circle-outline
 ---
 

@@ -1,5 +1,7 @@
 ---
-date: 2024-11-23
+date:
+  created: 2024-11-17
+  updated: 2024-11-23
 comments: true
 authors:
   - Lilon
@@ -7,11 +9,18 @@ slug: ai_advent
 categories:
   - IA
   - Rédactech
+tags:
+  - Intelligence Artificielle
+  - IA
+  - Automatisation
+  - Transformation Métier
+  - Retour d'Expérience
+  - ChatGPT
 ---
 
 # L'IA au travail : une révolution dans l'ordinaire
 
-C'est drôle comme les plus grandes transformations commencent souvent par un simple *"pourrais-tu juste...?"*. Par un matin ordinaire, cette phrase apparemment anodine allait bouleverser ma façon de travailler - jusqu'à me faire repenser mon métier de rédactrice technique.
+C'est drôle comme les plus grandes transformations commencent souvent par un simple *"pourrais-tu juste...?"*. Par un matin ordinaire, cette phrase apparemment anodine allait bouleverser ma façon de travailler – jusqu'à me faire repenser mon métier de rédactrice technique.
 
 <!-- more -->
 
@@ -19,11 +28,11 @@ C'est drôle comme les plus grandes transformations commencent souvent par un si
 
 Début 2023. Je suis sur un projet impliquant la standardisation de contenus multilingues dans un cadre technique. L'idée est de *"seulement"* reprendre ce qui n'est pas traduit et harmoniser le reste. À première vue, rien d'insurmontable. Je ne suis pas là pour tout refaire, juste pour ajuster, compléter, uniformiser. Une broutille, en somme, pas plus difficile que de réarranger quelques livres sur une étagère.
 
-La réalité ? Un fichier sans mise en forme, sans contexte. Un patchwork où les langages s'entremêlent comme dans un roman expérimental - parfois cohérent, souvent approximatif, et par moments presque surréaliste.
+La réalité ? Un fichier sans mise en forme, sans contexte. Un patchwork où les langages s'entremêlent comme dans un roman expérimental – parfois cohérent, souvent approximatif, et par moments presque surréaliste.
 
 Le doute s'installe. *Pourquoi moi ?* Ma double casquette de rédactrice technique et linguiste font de moi une candidate logique. Et puis il y a ce précédent, un stage où j'ai patiemment décortiqué des traductions techniques, armée de persévérance et de rigueur. Mais cette fois-ci, c'est différent. Pas de formation spécifique et un délai plutôt ambitieux, venant se greffer élégamment sur mes autres responsabilités.
 
-Les premiers jours, j'adopte l'approche classique : méthodique, ligne par ligne, glossaire en main. Mais sans contexte, chaque élément devient une équation à multiples inconnues. Est-ce le bon terme ? Cette traduction va-t-elle créer des incohérences ailleurs ? La masse de texte met ma patience et mon sens pratique à l'épreuve. Ce n'est pas de la rédaction, à peine de la traduction - juste une tâche répétitive et laborieuse. Je me surprends à penser : *Un robot ferait ça tout aussi bien*.
+Les premiers jours, j'adopte l'approche classique : méthodique, ligne par ligne, glossaire en main. Mais sans contexte, chaque élément devient une équation à multiples inconnues. Est-ce le bon terme ? Cette traduction va-t-elle créer des incohérences ailleurs ? La masse de texte met ma patience et mon sens pratique à l'épreuve. Ce n'est pas de la rédaction, à peine de la traduction – juste une tâche répétitive et laborieuse. Je me surprends à penser : *Un robot ferait ça tout aussi bien*.
 
 ## Une rencontre inattendue
 
@@ -35,7 +44,7 @@ Approbation en poche, les premiers essais commencent simplement, en demandant à
 
 ChatGPT ne sera pas mon traducteur miracle, mais pourquoi pas un outil pour automatiser les étapes les plus ennuyeuses ? Ce qui me manque, c'est un algorithme et surtout son application. C'est alors que je commence à pianoter : *"Peux-tu coder ça pour moi ?"*
 
-Je formule ma demande avec précision. Je sais ce dont j'ai besoin : un script capable de scanner le document et de se charger des tâches répétitives. Je ne maîtrise pas les langages de programmation ? Aucun problème - mon objectif est clair.
+Je formule ma demande avec précision. Je sais ce dont j'ai besoin : un script capable de scanner le document et de se charger des tâches répétitives. Je ne maîtrise pas les langages de programmation ? Aucun problème – mon objectif est clair.
 
 Les premières réponses de ChatGPT sont prometteuses, mais loin du compte. Entre les erreurs techniques et les concepts à approfondir, je passe mes weekends à explorer des forums, à apprendre les rudiments de *Python*, à affiner mes requêtes. Progressivement, comme une photo qui se développe, le script prend forme. Ce n'est pas un chef-d'œuvre d'élégance, mais il fait exactement ce dont j'ai besoin.
 
@@ -43,7 +52,7 @@ Les premières réponses de ChatGPT sont prometteuses, mais loin du compte. Entr
 
 ## À la croisée des algorithmes
 
-Et soudain, la magie opère. Ce qui ressemblait à une montagne devient une dune soufflée par les vents. Mon script, cette création née d'une collaboration inattendue avec l'IA, transforme des jours de labeur en quelques heures d'exécution. Et je me retrouve avec du temps - cette ressource si précieuse - mais surtout avec une révélation : si ça fonctionne ici, pourquoi pas dans d'autres situations ?
+Et soudain, la magie opère. Ce qui ressemblait à une montagne devient une dune soufflée par les vents. Mon script, cette création née d'une collaboration inattendue avec l'IA, transforme des jours de labeur en quelques heures d'exécution. Et je me retrouve avec du temps – cette ressource si précieuse – mais surtout avec une révélation : si ça fonctionne ici, pourquoi pas dans d'autres situations ?
 
 L'expérimentation devient une seconde nature. L'IA n'est plus un simple assistant de traduction, elle multiplie les possibilités. Chaque nouvelle utilisation ouvre la voie à d'autres applications potentielles.
 

@@ -1,11 +1,16 @@
 ---
-date: 2024-10-30
+date:
+  created: 2024-10-30
 comments: true
 authors:
     - Lilon
 slug: ode_to_the_plateau  
 categories:
-  - Random Thoughts  
+  - Random Thoughts
+tags:
+  - Music
+  - Hobbies
+  - Personal Essay
 ---
 
 # Musical Interlude: In Praise of the Plateau

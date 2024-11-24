@@ -1,11 +1,17 @@
 ---
-date: 2024-11-01
+date: 
+  created: 2024-11-01
 comments: true
 authors:
   - Lilon
 slug: margin
 categories:
-  - Random Thoughts  
+  - Random Thoughts
+tags:
+  - Margins
+  - Personal Essay
+  - Water Margin
+  - Manifesto
 ---
 
 # Technical Margins: Exploring Forgotten Spaces

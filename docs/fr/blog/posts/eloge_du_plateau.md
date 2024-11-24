@@ -1,11 +1,16 @@
 ---
-date: 2024-10-30
+date:
+  created: 2024-10-30
 comments: true
 authors:
     - Lilon
 slug: ode_to_the_plateau
 categories:
   - Pensées en vrac
+tags:
+  - Musique
+  - Hobby
+  - Essai Personnel
 ---
 
 # Aparté musical : éloge du plateau
@@ -24,7 +29,7 @@ Mais n'existe-t-il pas une autre manière de vivre la musique, plus intime, plus
 
 Imaginez cette même logique de performance appliquée à d'autres passions. Dira-t-on à un ami qui dévore les livres : *"Tu lis depuis si longtemps, tu as sûrement écrit un roman, non ?"* Ou bien, à quelqu'un qui aime dessiner sans prétention : *"Avec tout ce temps passé, quand nous inviteras-tu à ton exposition ?"* Certes, ces phrases ne semblent pas si saugrenues ; elles pourraient fort bien être lancées en galéjades. Mais imaginez avec aplomb : *"Tu joues à la PS4 depuis des années, tu dois être prête pour les compétitions d'e-sport maintenant ?"*
 
-Lorsqu'il s'agit de musique, cette double pression de la performance - au sens de résultats et au sens de spectacle - semble inévitable. Elle s'infiltre subtilement, transformant ce qui devrait être un espace de liberté en un autre terrain de "travail", une extension des efforts d'amélioration continue que l'on réserve d'ordinaire à la sphère professionnelle. Alors que nos vies s'organisent déjà autour de la quête d'un "toujours mieux", nos loisirs ne devraient-ils pas rester des sanctuaires, échappant à la pression incessante de l'excellence ?
+Lorsqu'il s'agit de musique, cette double pression de la performance – au sens de résultats et au sens de spectacle – semble inévitable. Elle s'infiltre subtilement, transformant ce qui devrait être un espace de liberté en un autre terrain de "travail", une extension des efforts d'amélioration continue que l'on réserve d'ordinaire à la sphère professionnelle. Alors que nos vies s'organisent déjà autour de la quête d'un "toujours mieux", nos loisirs ne devraient-ils pas rester des sanctuaires, échappant à la pression incessante de l'excellence ?
 
 ## La liberté du plateau
 

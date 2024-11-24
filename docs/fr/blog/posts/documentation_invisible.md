@@ -1,12 +1,18 @@
 ---
-date: 2024-10-29
+date:
+  created: 2024-10-29
 comments: true
 authors:
   - Lilon
 slug: documentation_invisible
 categories:
   - Rédactech
+tags:
+  - Rédaction technique
   - Documentation
+  - Qualité Logicielle
+  - Expérience Utilisateur
+  - Réflexion Métier
 ---
 
 # La documentation utilisateur : l'invisible qui rend visible
@@ -35,7 +41,7 @@ Au cœur de ma mission, il y a la collaboration avec les équipes de développem
 
 ## La documentation : plus qu'un guide pour la satisfaction client
 
-*"La notice est en chinois, je ne comprends pas comment ça marche - une étoile, mais c'est bien parce que je ne peux pas mettre moins."* Voilà un commentaire typique des sites de e-commerce, où une documentation bâclée équivaut souvent à une réputation compromise.
+*"La notice est en chinois, je ne comprends pas comment ça marche – une étoile, mais c'est bien parce que je ne peux pas mettre moins."* Voilà un commentaire typique des sites de e-commerce, où une documentation bâclée équivaut souvent à une réputation compromise.
 
 Dans le logiciel professionnel, la documentation devient bien plus qu'un mode d'emploi ; elle représente un lien direct, essentiel, entre l'utilisateur et le produit. Lorsqu'elle est bien faite, elle libère les équipes de support, en prenant en charge les questions simples et en laissant aux équipes la liberté de se consacrer aux cas plus complexes. Elle offre à l'utilisateur une autonomie, un espace où il peut explorer les fonctionnalités avancées à son rythme et découvrir toute la richesse du produit.
 

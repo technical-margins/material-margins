@@ -1,12 +1,21 @@
 ---
-date: 2024-11-23
+date:
+  created: 2024-11-17
+  updated: 2024-11-23
 comments: true
 authors:
   - Lilon
 slug: ai_advent
 categories:
   - AI
-  - TechWriting
+  - Technical Writing
+tags:
+  - Artificial Intelligence
+  - AI
+  - Automation
+  - Professional Evolution
+  - Case Study
+  - ChatGPT
 ---
 
 # AI at Work: a Revolution in the Mundane

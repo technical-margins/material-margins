@@ -1,11 +1,17 @@
 ---
-date: 2024-11-01
+date:
+  created: 2024-11-01
 comments: true
 authors:
   - Lilon
 slug: margin
 categories:
   - Pensées en vrac
+tags:
+  - En marge
+  - Essai Personnel
+  - Water Margin
+  - Manifeste
 ---
 
 # Marges techniques : une exploration de l'espace oublié

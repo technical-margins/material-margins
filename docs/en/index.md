@@ -1,14 +1,13 @@
 ---
 tags:
  - Home
- - Welcome
- - Introduction
 icon: material/home-circle-outline
 hide:
   - feedback
+  - tags
 ---
 
-# **Welcome to *Technical Margins***
+# Welcome to *Technical Margins*
 
 *Technical Margins* is, above all, a space for technical experimentation where I plan to explore various static site generators, starting with the blogging plugin of MkDocs' Material theme, and its multilingual capabilities. This project also offers an opportunity for me to become more familiar with GitHub, a platform similar to, yet distinct from, those I use professionally.
 

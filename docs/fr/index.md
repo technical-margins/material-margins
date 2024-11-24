@@ -1,10 +1,9 @@
 ---
 hide:
   - feedback
+  - tags
 tags:
  - Accueil
- - Bienvenue
- - Présentation
 icon: material/home-circle-outline
 ---
 

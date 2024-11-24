@@ -1,12 +1,18 @@
 ---
-date: 2024-10-29
+date:
+  created: 2024-10-29
 comments: true
 slug: documentation_invisible
 authors:
     - Lilon
 categories:
-  - TechWriting
+  - Technical Writing
+tags:
+  - Technical Writing
   - Documentation
+  - Software Quality
+  - User Experience
+  - Professional Insights
 ---
 
 # User Documentation: Making the Invisible Visible
