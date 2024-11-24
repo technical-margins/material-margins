@@ -1,8 +1,8 @@
-FROM squidfunk/mkdocs-material
+FROM squidfunk/mkdocs-material:9.5.44
 
-# Install necessary plugins using pip
+# Install additional plugins
 RUN apk add --no-cache python3 py3-pip && \
-    pip install mkdocs-macros-plugin mkdocs-glightbox mkdocs-static-i18n openai deepl tiktoken
+    pip install mkdocs-glightbox==0.3.7 mkdocs-static-i18n==1.2.0 mkdocs-macros-plugin==1.0.5
 
-# Set the working directory to /docs
+# Set the working directory
 WORKDIR /docs

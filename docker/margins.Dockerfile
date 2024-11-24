@@ -1,40 +1,40 @@
-# Build stage: use MkDocs Material to generate the HTML documentation
+# Build stage: use MkDocs to generate HTML files from Markdown
 FROM squidfunk/mkdocs-material:9.5.44 AS build
 RUN pip install mkdocs-glightbox==0.3.7 mkdocs-static-i18n==1.2.0 mkdocs-macros-plugin==1.0.5
 
-LABEL maintainer="technical-margins <no-address@live.fr>"\
+LABEL maintainer="technical-margins <themarginwriter@outlook.com>"\
     stage="build" \
-    description="Generates HTML from Markdown files using MkDocs with the Material theme."
+    description="Builds the HTML content using MkDocs, with the Material theme and plugins."
 
-# Copy project files to the /docs directory in the container
+# Copy the website source files to the container
 COPY . /docs
 
-# Set the working directory
+# Set the working directory to the docs folder in the container
 WORKDIR /docs
 
-# Build the HTML documentation using the appropriate MkDocs configuration file
+# Build the web site in English, French, and Chinese
 RUN mkdocs build -f config/fr/mkdocs.yml && \
     mkdocs build -f config/en/mkdocs.yml && \
     mkdocs build -f config/zh/mkdocs.yml
 
-# Minify HTML output by removing extra spaces
-# RUN python ./python_scripts/remove_spaces.py
+# Make the generated HTML files more efficient by removing spaces
+# RUN python ### Script to minify the HTML files to be added here
 
 # Serve stage: use Nginx to serve the generated HTML files
 FROM nginx:alpine
 
 LABEL stage="serve" \
-    description="Serves the HTML content on Nginx, using the Alpine version for efficiency."
+    description="Serves the generated HTML content using Nginx."
 
-# Copy Nginx configuration template for handling caching and URL redirection
+# Copy the Nginx configuration file to the container
 COPY docker/nginx.conf.template /etc/nginx/templates/default.conf.template
 
-# Copy the redirection HTML page depending on browser's language
+# Copy the index.html file to the Nginx directory to serve as the landing page for redirection
 COPY docs/index.html /usr/share/nginx/html
 
-# Copy the generated HTML files from the build stage to the Nginx directory
+# Copy the generated HTML files to the Nginx directory to serve the website
 COPY --from=build docs/generated /usr/share/nginx/html
 
-# Expose port 80 and start Nginx to serve the documentation
+# Expose the port that Nginx listens on
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
