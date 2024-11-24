@@ -7,13 +7,13 @@ server {
 
     location / {
         # Set cache control headers for static content (images, CSS, JS)
-        add_header Cache-Control "max-age=180";
-        expires 3m;
+        add_header Cache-Control "max-age=300";
+        expires 5m;
 
         # Apply cache settings to specific file types
         location ~* \.(jpg|jpeg|png|gif|ico|css|js|html|htm)$ {
-            add_header Cache-Control "max-age=180";
-            expires 3m;
+            add_header Cache-Control "max-age=300";
+            expires 5m;
         }
 
         error_page 404 /404.html;
