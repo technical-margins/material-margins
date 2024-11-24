@@ -1,22 +1,37 @@
 ---
 tags:
-    - About me
+    - About
 icon: material/account-circle-outline
 hide:
   - feedback
+  - tags
 ---
 
-# About me
+# About
 
-Hello! If you've found your way to this page, perhaps a little introduction is in order. I'm a technical writer at a French company, creating documentation for business software solutions. My work primarily involves making complex information clearer and more accessible for our users. Beyond simply delivering technical content, I'm driven to find innovative ways to make information more user-friendly, easier to understand, and more readily available.
+### Hello from the Margins
+
+If you've found your way to this page, perhaps a little introduction is in order. I'm a technical writer at a French software company, translating complex business solutions into human-readable language. My daily mission? To transform intricate technical landscapes into clear, navigable maps for users.
 
 <figure markdown="span">
     ![Avatar](https://gravatar.com/userimage/242531075/94f7fa36d4b7ca1b0baa7de927318925.jpeg?size=200){ class="image_cropper" }
 </figure>
 
-My background is somewhat unconventional – but isn't that often the case in technical writing? My path began with languages, East Asian studies, and literary translation, leading from academic research to technical documentation. This shift allowed me to combine my interest in technology with my linguistic skills. Today, this dual expertise shapes my approach to documentation, blending methodological rigour with a touch of creativity.
+### The Unconventional Path
 
-With *Technical Margins*, I take on a few technical explorations and share reflections on the edges of documentation, where formality gives way to thought and freer writing. A style quite distinct from my technical documentation, I assure you! In these margins, I unwind ideas, inspirations, and venture down paths less trodden. Join the conversation if you're so inclined – the margins are a space for shared discoveries.
+My background? A bit of an oddity. I started with languages, wandered through East Asian studies, and somehow landed in technical documentation. Not a traditional route, but then again, who follows traditional routes these days?
 
-!!! note "Disclaimer"
-    *This blog has no affiliation with my company. The views expressed here are solely my own.*
+### What This is About
+
+This blog isn't going to revolutionise the world of documentation. It's just a breathing space where formal technical writing exhales and something more personal inhales. Here, I'll unpack thoughts that don't fit neatly into user manuals.
+
+With *Technical Margins*, I'll take on some technical explorations and share reflections on the edges of documentation, where formality gives way to thought and freer writing. A style quite distinct from my technical communication, I assure you!
+
+### The Invitation
+
+Consider this an open invitation. Join the conversation if you're so inclined – the margins are a space for shared discoveries. They're a place for exploration, for conversations that meander between the structured and the spontaneous. If you're intrigued by the spaces where technical precision meets human narrative, you're welcome here.
+
+*The Margin Writer*
+
+!!! note "Just to be clear"
+    These musings are mine alone – not a corporate manifesto, corporate communication, or anything remotely official. My employer bears no responsibility for the occasional wandering thoughts that escape these margins.
