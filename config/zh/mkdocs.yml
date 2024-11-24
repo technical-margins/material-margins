@@ -1,4 +1,4 @@
-INHERIT: ../mkdocs.yml
+INHERIT: ../mkdocs.yml    # Inherit the configuration from the parent file
 
 ################ Project information ################
 docs_dir: '../../docs/zh/'
@@ -11,7 +11,11 @@ theme:
   language: zh-TW
 
 plugins:
-  - blog
+  - blog:
+      archive_date_format: yyyy-MM
+      archive_url_date_format: yyyy/MM
+#  - tags:      # Uncomment this section to enable tags (and uncomment the Tags section in the navigation)
+#      tags_file: blog/tags.md
   - search:                                         
       lang: zh-TW
 
@@ -38,5 +42,6 @@ nav:
     - index.md
   - 部落格 :
     - blog/index.md
+#    - Tags: blog/tags.md
   - 關於我:
     - about/index.md

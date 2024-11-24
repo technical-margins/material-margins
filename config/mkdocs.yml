@@ -1,22 +1,22 @@
-################ Project information ################
+################ Project Information ################
 
 site_name: 'Technical Margins'
-site_author: Lise
+site_author: The Margin Writer
 
 ################ Misc configuration ################
-use_directory_urls: true                  # No '.html' in generated site URLs.
+use_directory_urls: true                  # Use directory URLs instead of file URLs.
 
-################ Validation (ogs to show during mkdocs serving or building) ################
+################ Logs (mkdocs serve or build) ################
 validation:
   nav:
-    omitted_files: info
-    not_found: warn
-    absolute_links: info
+    omitted_files: info       # Warn about omitted files in the nav.
+    not_found: warn           # Warn about files in the nav that cannot be found.
+    absolute_links: info      # Warn about absolute links in the nav.
   links:
-    not_found: warn
-    anchors: info
-    absolute_links: info
-    unrecognized_links: info
+    not_found: warn           # Warn about links in the content that cannot be found.
+    anchors: info             # Warn about anchors in the content that cannot be found.
+    absolute_links: info      # Warn about absolute links in the content.
+    unrecognized_links: info  # Warn about unrecognized links in the content.
 
 ################ Theme Configuration ################
 theme:
@@ -59,19 +59,18 @@ theme:
         bug: material/bell-circle-outline
         quote: material/comma-circle-outline
     features:
-        - navigation.footer
-        - navigation.indexes        # Individual home pages (index.md) for each section.
-        - navigation.sections
-        - navigation.tabs           # Navigation by section at the top, instead of a complete TOC on the left.
-#        - navigation.tabs.sticky   # So that navigation by section is always visible.
-        - navigation.top            # Back to top button.
-        - toc.follow                # Follow the page in TOC.
-#        - toc.integrate            # Mini-TOC on the right VS into the general menu.
+        - navigation.footer         # Footer navigation.
+        - navigation.indexes        # Index pages for each section.
+        - navigation.sections       # Section navigation.
+        - navigation.tabs           # Tab navigation at the top of the page.
+#        - navigation.tabs.sticky   # Retain the tab navigation at the top of the page while scrolling.
+        - navigation.top            # Add a "Back to top" button.
+        - toc.follow                # Follow navigation in the TOC
+#        - toc.integrate            # Uncomment to integrate right-side TOC into the left panel.
 
 ################ Extra Configuration ################
 extra_css:
   - assets/stylesheets/extra.css 
-  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css # To render math equations.
 
 extra_javascript:
   - assets/javascripts/katex.js
@@ -82,9 +81,13 @@ extra:
   analytics:
     provider: google
     property: G-9QESW2GJNK
-#  social:
+  social:
 #    - icon: fontawesome/brands/linkedin
 #      link: https://www.linkedin.com/in/.../
+    - icon: material/github
+      link: https://github.com/technical-margins
+    - icon: material/send-circle-outline
+      link: mailto:themarginwriter@outlook.com
   alternate:
     - name: English
       link: /material-margins/en/
@@ -95,12 +98,12 @@ extra:
     - name: 中文
       link: /material-margins/zh/
       lang: zh
-# Defining macros
+# Macros to be used in the markdown files, format {{ macro.name }}.
   author:
     name: Lise
   blog:
     name: Technical Margins
-  generator: true                        # Keep the "Generated with MkDocs" message in the footer.
+  generator: true                        # Add a generator name and link to the footer.
 
 
 ################ Markdown Extensions ################
@@ -112,21 +115,21 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.snippets:    # For inserting markdown or HTML snippets into another markdown file
+  - pymdownx.snippets:    # Insert markdown or HTML snippets into other markdown files.
       base_path: [docs/assets/snippets]
       check_paths: true
-  - attr_list             # allows you to add attributes to your markdown elements.
-  - md_in_html            # allows you to use markdown inside HTML blocks.
-  - pymdownx.emoji:       # emoji support.
+  - attr_list             # Allow attributes to your markdown elements.
+  - md_in_html            # Allow markdown inside HTML blocks.
+  - pymdownx.emoji:       # Emoji support.
       emoji_index: !!python/name:material.extensions.emoji.twemoji      # Use Twemoji.
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg   # Use SVG.
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg   # Generate SVGs.
       options:
         custom_icons:
           - '../../overrides/.icons/'
-  - pymdownx.tabbed:      # tabbed content.
+  - pymdownx.tabbed:      # Create tabbed content.
       alternate_style: true
   - pymdownx.arithmatex:
-      generic: true       # to use generic math delimiters.
+      generic: true       # Use generic TeX delimiters.
 
 ################ Plugins ################
 plugins:
@@ -137,17 +140,20 @@ plugins:
       categories_toc: true
   - tags:
       enabled: true
-#      tags_file: tags.md
+      tags: true
   - search:
       enabled: true                                         
       pipeline:
-#          - stemmer  # PB: the search only works on the beginning of words; if you search for a word in its entirety, it will not be found.
-          - stopWordFilter # to remove common words from search.
-          - trimmer   # to remove leading and trailing whitespace.
-      separator: '[\s\-,:!=\[\]()"/]+\.(?!\d)&[lg]t;' # characters used to split words.
+#          - stemmer  # Search for the root of words. Somehow cannot search for full words.
+          - lower    # Lowercase all words.
+          - strip    # Remove punctuation.
+          - searchIndex
+          - stopWordFilter # Remove common words from search.
+          - trimmer   # Remove leading and trailing whitespace.
+      separator: '[\s\-,:!=\[\]()"/]+\.(?!\d)&[lg]t;' # Characters used to split words.
   - glightbox:
        touchNavigation: true
-       loop: false    # to disable the loop.
+       loop: false    # Disable the loop.
        effect: zoom
        slide_effect: slide
        width: 100%

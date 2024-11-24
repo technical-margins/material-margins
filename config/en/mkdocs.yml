@@ -1,4 +1,4 @@
-INHERIT: ../mkdocs.yml
+INHERIT: ../mkdocs.yml    # Inherit the configuration from the parent file
 
 ################ Project information ################
 docs_dir: '../../docs/en/'
@@ -11,7 +11,15 @@ theme:
   language: en
 
 plugins:
-  - blog
+  - blog:
+      archive_date_format: yyyy-MM
+      archive_url_date_format: yyyy/MM
+      categories_allowed:
+        - Random Thoughts
+        - Technical Writing
+        - AI
+  - tags:
+      tags_file: blog/tags.md
   - search:                                         
       lang: en
 
@@ -38,5 +46,6 @@ nav:
     - index.md
   - Blog:
     - blog/index.md
+    - Tags: blog/tags.md
   - About:
     - about/index.md
