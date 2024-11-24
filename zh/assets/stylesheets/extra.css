@@ -106,7 +106,7 @@ ul ul ul {
   }
 }
 
-/* Slate color scheme */
+/* Dark color scheme */
 [data-md-color-scheme="slate"] {
     --md-primary-fg-color--dark:  #007d99 !important;
     --md-primary-fg-color:        #0090b2 !important;
@@ -133,10 +133,11 @@ ul ul ul {
     --md-primary-fg-color--light: #449eea;
     --md-primary-fg-color--dark:  #235278; */
 
-/* Modification de la couleur et forme des Notes */
+/* Change the color and look of the admonition */
 .md-typeset .admonition,
 .md-typeset details {
   border-width: 1px;
+  box-shadow: 0 3px 6px var(--md-shadow-z1) !important;
 }
 
 .md-typeset .admonition.note,
@@ -162,7 +163,7 @@ ul ul ul {
   color:#008A99;
 }
 
-/*Pour faire des div grid cards*/
+/*For div grid cards*/
 .md-typeset .grid {
   grid-gap:.4rem;
   display:grid;
@@ -234,41 +235,8 @@ ul ul ul {
   margin-bottom:0;
   margin-top:0
 }
-/*---------------------------------------------------*/
-/* Pour les boutons de la page d'accueil */
-@media only screen and (max-width: 767px) {
-  .mobile-only {
-      display: block;
-  }
-}
 
-@media only screen and (min-width: 768px) {
-  .mobile-only {
-      display: none;
-  }
-}
-/* Style des boutons */
-.md-button-custom {
-  display: inline-block;
-  padding: 10px;
-  margin: 3px; /* Diminuez la marge ici pour réduire l'espace entre les boutons */
-  color: white !important; /* Changez la couleur du texte en blanc */
-  background-color: #00c89b; /* Couleur de fond par défaut */
-  border: none;
-  border-radius: 15px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 16px;
-  font-weight: bold;
-  transition: background-color 0.3s ease, box-shadow 0.3s ease;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-.md-button-custom:hover {
-  background-color: #00644d;
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
-}
-
-/*Hauteur logo */
+/* Logo height */
 .md-header__button.md-logo img {
   height: 45px;
   padding-left: 5px;
@@ -281,14 +249,6 @@ ul ul ul {
 .md-header__button.md-logo {
   margin: 2px;
   padding: 4px;
-}
-
-/*-Bordure et ombre sur les admonitions-*/
-div.admonition {
-  box-shadow: 0 3px 6px var(--md-shadow-z1) !important;
-}
-details {
-  box-shadow: 0 3px 6px var(--md-shadow-z1) !important;
 }
 
 /*Make mobile title shorter*/
