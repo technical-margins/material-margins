@@ -48,7 +48,7 @@ Peut-être est-ce cela, finalement, qui m'attire tant dans cette idée de marge 
 
 Les marges – qu'elles soient sur des cahiers, dans une pensée ou dans la culture – sont tout sauf accessoires. Elles sont des espaces de liberté, de découverte, où s'articulent souvent les enjeux essentiels. La documentation que je construis, en marge de l'application, joue un rôle tout aussi décisif : elle rend le complexe accessible, construit des ponts invisibles.
 
-Ce blog, *Technical Margins*, est en soi une invitation à explorer ces territoires discrets, mais fertiles, là où la créativité et la pensée prennent une dimension plus ample. Ce blog, c'est un peu une échappée belle en marge de mon travail formel de documentation technique, un espace qui ne répond pas tout à fait aux mêmes contraintes, où la pensée vagabonde et les idées s'épanouissent, loin des exigences du produit ou des normes de clarté fonctionnelle.
+Ce blog, *Technical Margins*, est en soi une invitation à explorer ces territoires discrets où la créativité et la pensée prennent une dimension plus ample. Ce blog, c'est un peu une échappée belle en marge de mon travail formel de documentation technique, un espace qui ne répond pas tout à fait aux mêmes contraintes, où la pensée vagabonde et les idées s'épanouissent, loin des exigences du produit ou des normes de clarté fonctionnelle.
 
 Ce sont bien ces marges qui donnent de l'élan, qui nourrissent la pratique quotidienne. Car, dans l'écriture de la documentation comme dans celle de ce blog, ce qui semble en périphérie finit souvent par toucher le cœur du sujet.
 

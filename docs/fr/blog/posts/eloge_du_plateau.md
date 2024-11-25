@@ -49,7 +49,7 @@ De même, déchiffrer une tablature peut redevenir une exploration sans attente.
 
 ## Un refuge intime
 
-Pratiquer "en plateau" devient alors un véritable refuge – non seulement contre la pression de la performance, mais aussi contre le stress du quotidien et ses exigences. C'est un espace où l'on peut simplement être, sans prouver, sans devoir mesurer sa valeur ou démontrer une progression. La musique devient un ressourcement, un contrepoint nécessaire aux activités focalisées sur le résultat.
+Pratiquer "en plateau" devient alors un véritable refuge – non seulement contre la pression de la performance, mais aussi contre le stress du quotidien et ses exigences. C'est un espace où l'on peut simplement être, sans prouver, sans devoir mesurer sa valeur ou démontrer une progression. La musique devient un havre de ressourcement, un contrepoint nécessaire aux activités focalisées sur le résultat.
 
 ## Une résistance douce
 

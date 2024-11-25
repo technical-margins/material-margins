@@ -48,7 +48,7 @@ Perhaps this, ultimately, is what draws me to the idea of the margin: it's a pla
 
 Margins – whether on paper, in thought, or in culture – are anything but trivial. They are spaces of freedom, of discovery, where essential issues often take shape. The documentation I build, on the margins of the application, plays an equally crucial role: it makes complex ideas accessible, building unseen connections.
 
-This blog, *Technical Margins*, is itself an invitation to explore these subtle yet fertile spaces, where creativity and thought take on greater dimensions. In a way, this blog is a refreshing break from formal technical documentation, a space that doesn't quite answer to the same constraints, where thoughts roam freely and ideas blossom, far from the product's demands or functional clarity standards.
+This blog, *Technical Margins*, is itself an invitation to explore these subtle spaces, where creativity and thought take on greater dimensions. In a way, this blog is a refreshing break from formal technical documentation, a space that doesn't quite answer to the same constraints, where thoughts roam freely and ideas blossom, far from the product's demands or functional clarity standards.
 
 It's these margins that give momentum and sustain daily practice. For in the writing of documentation as in this blog, what seems peripheral often touches the heart of the matter.
 

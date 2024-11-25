@@ -27,7 +27,7 @@ Imaginez-vous déballant votre nouvelle friteuse électrique, prête à révolut
 
 ## Le travail invisible du rédacteur technique
 
-Dans la ruche en perpétuelle ébullition du développement informatique, la documentation occupe une place paradoxale. Bien que reconnue comme indispensable, elle est bien souvent reléguée au second plan dans la pratique. *"On documentera plus tard", "L'important est de livrer le produit"* – voici des phrases que chaque rédacteur technique connaît, presque comme une mélodie en sourdine.
+Dans la ruche en effervescence du développement informatique, la documentation occupe une place paradoxale. Bien que reconnue comme indispensable, elle est bien souvent reléguée au second plan dans la pratique. *"On documentera plus tard", "L'important est de livrer le produit"* – voici des phrases que chaque rédacteur technique connaît, presque comme une mélodie en sourdine.
 
 Pourtant, il existe d'autres modèles inspirants. Dans l'industrie aéronautique, chaque avion est livré avec des milliers de pages de documentation méticuleuse, qui ne se contentent pas d'expliquer mais qui garantissent sécurité et efficacité. Ce n'est pas un luxe ; dans ce secteur, la documentation est aussi vitale que les moteurs.
 
