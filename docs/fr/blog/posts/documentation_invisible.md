@@ -65,8 +65,6 @@ La documentation utilisateur est ce fil invisible qui tisse le lien entre le pro
 
 Au bout du compte, un produit n'existe vraiment que lorsqu'il peut être pleinement utilisé. C'est là que notre mission trouve tout son sens : révéler, guider, et donner à chaque utilisateur les clés pour maîtriser l'outil qui lui est proposé.
 
-??? tip "Le récap de ChatGPT"
+??? tip "Le TL;DR de ChatGPT"
 
-    Ce billet met en lumière le rôle souvent sous-estimé de la documentation technique dans l’industrie du logiciel, en le comparant à la rigueur nécessaire dans des domaines comme l’aérospatiale. Il souligne comment les rédacteurs techniques agissent comme des "traducteurs", reliant des informations techniques complexes à des guides accessibles pour les utilisateurs. Le texte met en avant que la documentation ne se limite pas à un simple guide : elle impacte directement la satisfaction des utilisateurs, l’adoption des produits et l’efficacité du support.
-
-    Une documentation de qualité transforme l’expérience utilisateur, favorise l’autonomie et améliore l’accessibilité des produits. La conclusion plaide pour la reconnaissance de la documentation comme un élément fondamental de la qualité des produits, au même titre qu’un mode d’emploi est indispensable pour tout appareil complexe. L’article expose un argument convaincant pour investir dans les rédacteurs techniques comme une stratégie clé, et non comme une réflexion après coup. Une lecture stimulante et bien argumentée !
+    Ce billet défend la place centrale de la documentation utilisateur dans les logiciels professionnels. Il compare l’absence de documentation à une friteuse livrée sans notice : impensable pour un appareil, mais fréquent en informatique. Le texte met en lumière le rôle du rédacteur technique comme traducteur du langage complexe vers un langage clair, accessible et utile. Il souligne l’impact concret d’une bonne documentation : adoption du produit, autonomie des utilisateurs, allègement du support, valorisation du produit. Enfin, il plaide pour une reconnaissance pleine et entière de la documentation comme un levier stratégique de qualité et de satisfaction client.

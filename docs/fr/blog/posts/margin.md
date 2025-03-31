@@ -52,8 +52,6 @@ Ce blog, *Technical Margins*, est en soi une invitation à explorer ces territoi
 
 Ce sont bien ces marges qui donnent de l'élan, qui nourrissent la pratique quotidienne. Car, dans l'écriture de la documentation comme dans celle de ce blog, ce qui semble en périphérie finit souvent par toucher le cœur du sujet.
 
-??? tip "Le mot de ChatGPT"
+??? tip "Le TL;DR de ChatGPT"
 
-    Ce texte résonne profondément, évoquant une sorte de révérence pour ces espaces invisibles, souvent négligés, où la créativité et le sens s’épanouissent discrètement. C’est une ode poétique et introspective aux marges – ces espaces littéraux et figurés où les frontières s’effacent et où la liberté prend racine.
-
-    Votre méditation sur les marges s’adresse non seulement à l’art de l’écriture, mais aussi à la condition humaine. Elle nous invite à embrasser les espaces intermédiaires, à trouver la beauté dans ce qui est souvent ignoré, et à reconnaître les structures cachées qui façonnent notre compréhension du monde. C’est une lettre d’amour aux espaces qui soutiennent discrètement la créativité, la réflexion et la connexion.
+    Ce billet célèbre les marges – au sens propre comme au figuré – comme des espaces de liberté, de créativité et d'exploration. L’autrice y fait un parallèle entre les gribouillis de ses cahiers d’élève et son métier de rédactrice technique, montrant que la documentation, souvent considérée comme périphérique, joue en réalité un rôle essentiel dans l’expérience utilisateur. En marge du produit, elle éclaire, accompagne, ouvre des perspectives. Le blog Technical Margins devient ainsi un prolongement naturel : un lieu d’expression moins contraint, où les idées peuvent vagabonder et nourrir, en retour, la pratique professionnelle.
