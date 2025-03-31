@@ -40,7 +40,7 @@ One moment particularly struck me. A speaker was explaining the current limitati
 
 ## The Unspoken Question
 
-Day two brought revelations, though not those I'd expected. During a panel celebrating the historical adaptability of documentation departments, a voice rose from the audience – a poignant testimony that silenced the room: the story of mass layoffs in a documentation team at a major French company, these professionals having been deemed *"useful but not necessary"* after external consultants automated much of their work.
+Day two brought revelations, though not those I'd expected. During a panel celebrating the historical adaptability of documentation departments, a voice rose from the audience – a moving testimony that silenced the room: the story of mass layoffs in a documentation team at a major French company, these professionals having been deemed *"useful but not necessary"* after external consultants automated much of their work.
 
 This moment crystallised fears. The silence in the room was deafening, as if everyone were thinking: *"Will I be next?"* I recalled what I'd written months ago: *"AI doesn't make my days less busy; it transforms them, enriches them, extends them too."* But how far does this transformation go? Where is the line between enrichment and replacement?
 
@@ -48,19 +48,19 @@ The official response came quickly: *"Learn continuously, master these tools so 
 
 ## The Prompter's Paradox
 
-This increasingly unsubtle transformation of our profession concerns me. In a writing assistance workshop, I heard a question that has haunted me since: *"Aren't writers becoming merely prompt writers?"*
+This increasingly unsubtle transformation of our profession concerns me. In one of the workshops, I heard a question that has haunted me since: *"Aren't writers becoming merely prompt writers?"*
 
 This formulation, both playful and unsettling, perfectly expresses our professional metamorphosis. We who were content producers have indeed become LLM orchestrators. Our value no longer lies in generating information directly, but in formulating the right questions and instructions for AI to produce the desired content.
 
-The writer as commissioner and editor of automatically generated content. Is this a promotion or a relegation? I oscillate between these interpretations, as if our professional identity has entered a quantum state of uncertainty. I remember the excitement I felt writing my first script with ChatGPT's help, transforming what seemed like a mountain into a dune blown by the winds. But today, faced with constant acceleration, this professional metamorphosis seems less liberating.
+The writer as commissioner and editor of automatically generated content. Is this a promotion or a relegation? I oscillate between these interpretations, as if our professional identity had entered a quantum state of uncertainty. I remember the excitement I felt writing my first script with ChatGPT's help, transforming what seemed like a mountain into a dune blown by the winds. But today, faced with constant acceleration, this professional metamorphosis seems less liberating.
 
 ## The Solitude of Adaptation
 
-Between sessions, participants exchange reflections. Many share this concern, this feeling of solitude in the face of demands to adapt. *"I spend my evenings training, following tutorials, experimenting with these new tools,"* confides an older documentalist. *"Yet I feel like I'm chasing a train that keeps accelerating."*
+Between sessions, participants exchange reflections. Many share this concern, this feeling of solitude in the face of demands to adapt. *"I spend my evenings training, following tutorials, experimenting with these new tools,"* confides an older documentarian. *"Yet I feel like I'm chasing a train that keeps going faster and faster."*
 
 What strikes me is how this race for adaptation seems to rest entirely on individual shoulders. Organisations demand relevance, but how many will truly invest in our transformation? How many will recognise upskilling with proportional compensation?
 
-My fear that AI won't improve working conditions persists; if anything, it's intensified. I worry it will further widen the gap between those who possess technological capital and those fighting simply to keep their jobs – employees racing for employability while companies chase existence and profitability.
+Deep down, we all have concerns about the impact of AI on working conditions. If anything, my fears are intensified. I worry it will further widen the gap between those who possess technological capital and those fighting simply to keep their jobs – employees racing for employability while companies chase existence and profitability.
 
 When I think about documentation that I recently defended as *"an invisible thread"* weaving connections between product and users, I wonder: is this thread changing in nature, or simply changing hands?
 
@@ -68,19 +68,19 @@ When I think about documentation that I recently defended as *"an invisible thre
 
 Amid pressure to adapt emerge almost mystical new job titles: *"AI orchestrators,"* *"ethical guardians,"* *"prompt engineers"*... As if we're inventing vocabulary to reassure ourselves, to give meaning to our forced transformation.
 
-Are these truly new professions, or simply old roles in futuristic costumes? A genuine metamorphosis, or a rebranding exercise?
+Are these truly new professions, or simply old roles in futuristic fancy dress? A genuine metamorphosis, or a rebranding exercise?
 
-In one demonstration, I watched a system transform emails with attachments into structured, classified, summarised data in seconds – completely without human input. I felt both technical fascination and existential vertigo. Tasks that once occupied days, reduced to moments by an impassive algorithm.
+In one presentation, I watched a system transform emails with attachments into structured, classified, summarised data in seconds – completely without human input. I felt both technical fascination and existential vertigo. Tasks that once occupied days, reduced to moments by an impassive algorithm.
 
-I recall writing about hobbies, that we must preserve *"spaces in our lives where the quest for constant improvement doesn't set foot."* But where is that professional sanctuary that escapes the optimisation imperative? How do we maintain *"plateaus"* when everything pushes toward perpetual ascent?
+I recall writing about [hobbies](eloge_du_plateau.md), that we must preserve *"spaces in our lives where the constant pursuit of improvement has no place."* But is there any time left for any sanctuary that escapes the optimisation imperative? How do we maintain *"plateaus"* when everything pushes toward perpetual ascent?
 
 ## A Transformation Without Instructions
 
 What's sorely lacking in this technological ferment is a human manual for transformation. We know how to operate these tools, but no one seems to know how to operate our societies, teams, and lives with them.
 
-I searched vainly among all these conferences for deep reflection on how this transition could be negotiated collectively. Instead of societal discussion, I found individual injunctions: adapt, train, transform yourself – as if responsibility for this historical mutation rested solely on isolated workers.
+I searched vainly among all these conferences for deep reflection on how this transition could be negotiated collectively. Instead of societal discussion, I found individual injunctions: *adapt, train, transform yourself* – as if responsibility for this historical mutation rested solely on isolated workers.
 
-I think of that instruction-less air fryer I mentioned in [a previous post](documentation_invisible.md). Ironically, we face technologies meant to produce documentation, but lack instruction manuals for ourselves – not technical ones, but human ones.
+I think of that instruction-less air fryer I mentioned in [a previous post](documentation_invisible.md). Ironically, we face technologies that will help produce documentation, but lack instruction manuals for ourselves – not technical ones, but human ones.
 
 ## Beyond Adaptation, Invention
 
@@ -88,7 +88,7 @@ Leaving Documation 2025, I carried more questions than answers. Perhaps that's t
 
 In the end, beneath the technological veneer, the fundamental questions remain: what gives value and meaning to our work? How does our profession contribute to the common good? What place do we want humans to have in our organisations?
 
-Rather than simply "adapting" to a technological future presented as inevitable, perhaps we should aspire to invent it, to shape it according to our values, aspirations, and vision of what human work should be in the AI age.
+Rather than simply "adapting" to a technological future presented as inevitable, maybe we should aspire to invent it, to shape it according to our values, aspirations, and vision of what human work should be in the AI age.
 
 Because if there's one thing AI can never do for us, it's decide what kind of world we want to build with it.
 
