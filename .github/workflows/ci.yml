@@ -13,16 +13,31 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+          
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.12
+
+      - uses: actions/cache@v3
+        with:
+          key: ${{ github.ref }}
+          path: .cache
+
+      - run: pip install mkdocs-material==9.5.44 mkdocs-glightbox mkdocs-macros-plugin
+      - run: pip install mike --force-reinstall --verbose
+
       - name: Build FR docs
         uses: ./
         with:
           entrypoint: mkdocs
           args: build --config-file=config/fr/mkdocs.yml
+
       - name: Build EN docs
         uses: ./
         with:
           entrypoint: mkdocs
           args: build --config-file=config/en/mkdocs.yml
+
       - name: Build ZH docs
         uses: ./
         with:
@@ -34,21 +49,8 @@ jobs:
           sudo cp docs/index.html generated/
           sudo cp docs/404.html generated/
 
-      - uses: actions/setup-python@v4
-        with:
-          python-version: 3.12
-
       - name: Deploy docs to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./generated
-
-      - uses: actions/cache@v2
-        with:
-          key: ${{ github.ref }}
-          path: .cache
-      - run: pip install mkdocs-material==9.5.44 mkdocs-glightbox mkdocs-macros-plugin
-      - run: pip install mike --force-reinstall --verbose
-#      - run: mike deploy --push --update-aliases 1.0 latest --ignore
-#      - run: mkdocs gh-deploy --force
